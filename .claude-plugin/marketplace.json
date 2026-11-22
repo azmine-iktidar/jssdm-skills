@@ -1,0 +1,11 @@
+{
+  "name": "jssdm-skills",
+  "owner": { "name": "azmine-iktidar" },
+  "plugins": [
+    {
+      "name": "jssdm",
+      "source": "./",
+      "description": "JSSDM 2022 service-writing skills: basics and abbreviations/symbols."
+    }
+  ]
+}

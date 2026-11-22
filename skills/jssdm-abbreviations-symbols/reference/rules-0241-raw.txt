@@ -1,0 +1,119 @@
+0241.   Abbreviations.
+        a.      General.
+                (1)     In service writing, abbreviations used are those shown in
+                Section 16.
+                (2)     However, other abbreviations/acronyms may be used if
+                the writer considers them helpful; in this case they must be
+                explained the first time they appear in the text e.g. ‘Covering
+                Forces (CF)’ or be listed in a separate annex, unless they are:
+                         (a)     In Section 16 of this manual.
+                         (b)     In general use, e.g. UN, NATO, etc.
+                         (c)     Specialist abbreviations well understood by both
+                         writer and all likely recipients of the paper in question.
+                         See Paragraph 1613 at Section 16.
+                (3)    Once a word has been abbreviated, it is to be abbreviated
+                throughout the same document.
+                                     2-10
+                                 RESTRICTED
+
+                       RESTRICTED
+
+b.   Other Rules.
+     (1)     Composite Nouns/Verbs.           Any composite noun or
+     verb, or one containing a prefix or suffix, may be abbreviated by
+     abbreviating that part of it for which there is an authorized
+     abbreviation, e.g. mob (mobilize), demob (demobilize), minefd
+     (minefield). Exceptions are in cases where there is an authorized
+     abbreviation with prefix or suffix, e.g. C attk (counter attack).
+     (2)     Full Stops and Commas.        Full stops are not to be
+     used in abbreviations and between a person`s initials or
+     decorations/ qualifications. Commas are used after the name and
+     between abbreviations of branches, decorations, qualifications,
+     and service/regiment/corps e.g.:
+             Brig Gen H M Masihur Rahman, SGP, SPP, ndc, afwc, psc
+             Air Cdre S M Muied Hossain, BPP, OSP, ndc, psc, GD(P)
+             Col Md Khairuzzaman Mollah, SUP, hdmc, afwc, psc
+             Lt Col Mohammad Saifur Rahman Sohel, SUP, psc, Inf
+             Cdr A K M Toriqullah, (L), psc, BN
+     (3)       Plurals.       Some abbreviations indicate both the
+     singular and the plural forms and do not require the
+     addition of ‘s’ e.g. rat (ration, rations). Abbreviations of
+     measurements remain unaltered in the plural e.g. m (metre,
+     metres), l (litre, litres), hr (hour, hours). If the addition of ‘s’ is
+     necessary, it is always placed at the end of the abbreviation e.g.
+     GOCs (General Officers Commanding). An ‘s’ may be added
+     only to the abbreviation of a noun. However, the first and third
+     person singular of a verb which may be abbreviated are identical
+     e.g. fol (follow, follows).
+     (4)      Verbs.       If there is an authorized abbreviation for a
+     particular verb in Section 16 which is in present indefinite form,
+     the same should be used for abbreviating all derivatives and
+     tenses of that verb e.g. sp {(support), support (ed), support (ing),
+     support (er), support (ive)} etc. For clarity, the word in full in its
+     intended form may be used in case of confusion. Exceptions are
+     in case of a particular tense of a verb or a specific derivative of a
+     word e.g. bldg (building), retd (retired), addl (additional), etc.,
+     which will be used only for that particular word(s) as given and
+     for no other derivatives.
+
+                             2-11
+                       RESTRICTED
+
+                         RESTRICTED
+
+        (5)     Multiple Meanings.       Some abbreviation can be used
+        for two or more meanings as given at Section 16 e.g. AB for ‘air
+        borne’ and ‘after burner’. Again in case of confusion, the same
+        may be written in full as mentioned.
+
+        (6)     Ampersand.      An ampersand ‘&’ is to be used instead
+        of ‘and’ where appropriate in departmental and similar titles, e.g.
+        AA&QMG, R&D, Messrs Rahman & Sons.
+
+        (7)     Compass Points. The four cardinal points of the
+        compass are always written in full in small letters, e.g. north.
+        The intermediate points can be written as shown:
+                (a)   Abbreviated using the initial letters, e.g. NE, NNE.
+                (b) In full using a hyphen, e.g. north-east, north-north-
+                east.
+        (8)      Capitals. If the first letter of the abbreviated item is in
+        capitals as in Section 16 and other abbreviations referred there
+        to, it will be in capitals throughout its use anywhere e.g. C attk,
+        Atk, etc.
+
+c.       Use in Service Writing. In both operational and non-operational
+writing and signal messages maximum use of abbreviations is to be
+made, exceptions being the paragraph headings of operational and
+administrative orders in operational writing (See Paragraph 1106 and
+Section 12) and for non-operational writing in demi-official, commanded
+and formal letters and service papers (except for decorations,
+qualifications and arms/services). However, in BAF abbreviations may
+be used while writing service papers on operational matters.
+d.      Use with Allied Forces and Non-service Authorities. In service
+writing, no abbreviations as at section 16 are used when corresponding
+with allied forces and non-service authorities. Officially recognized
+abbreviations e.g. WASA (Water and Sewerage Authority), Power
+Development Board (PDB) etc., can be used except in correspondence
+with foreign organizations. However, abbreviations may be used in
+operational writing having para-military forces as addressees.
+e.     National Distinguishing Letters.        The distinguishing letters
+which may be used to identify nations are at Annex D to Section 16.
+
+
+                            2-12
+                         RESTRICTED
+
+                                  RESTRICTED
+
+0242. Numerals.          Fractions and whole numbers, except ‘one’ are to be
+written in figures. When a number is the first word in a sentence or when it refers
+to quantitative number of formations units, ships, bases etc., it should be spelt out
+to avoid confusion (see Paragraph 0244b). The figure ‘1’ is used whenever it
+occurs in dates, paragraph and chapter numbers, serial numbers in tables and
+diagrams, etc., If adjacent numbers indicate quantities and dimensions, either the
+first should be spelt out, e.g. ‘twelve 10-ton trucks`, or the adjacent numbers
+should be separated by the multiplication sign, e.g. ‘12 X 10-ton trucks’. The
+procedure for referring to fractions and whole numbers in signal messages is at
+Section 15. Ordinals are usually abbreviated e.g. 6th Staff Course, 1st World War.
+
+0243.   Date and Time.      These are written as follows:

@@ -1,0 +1,2473 @@
+                                    SECTION 2
+            RULES AND CONVENTIONS OF SERVICE WRITING
+
+                                INTRODUCTION
+
+0201. This section contains the basic rules and conventions used in service
+writing to aid clear presentation of facts and discussion. The rules and
+conventions help:
+        a. The Writer. Knowing the rules, the writer automatically conforms
+        to standard layouts and other conventions and does not waste time
+        devising his/her own.
+
+        b. The Typist. The typist does not have to adapt drafts to make them
+        suitable for typing.
+        c. The Reader. The reader receives a document which conforms to a
+        familiar pattern and is easy to read.
+
+Additional conventions used in correspondence, staff papers and operational
+writings are explained in later chapters.
+
+0202. These conventions apply to various service correspondence, staff works,
+operational and non-operational writings (manuscript and type written) but may
+not necessarily be applied to publications. For instance, the computer allows a
+wide variety of type styles and sizes can vary the spacing of words and letters to
+align the right-hand margin vertically. However, these conventions will enable
+the Services to maintain uniformity in various kinds of service writings whenever
+possible.
+
+0203.   Most documents have three basic parts:
+
+        a. Superscription. The superscription comprises everything above the
+        salutation, or if there is no salutation, the subject heading which marks the
+        start of the text.
+
+        b. Text. The text is everything from the salutation, or if there is no
+        salutation, from subject heading to the last word of the final paragraph.
+
+        c. Subscription. The subscription starts immediately after the text and
+        consists of everything below the final paragraph of the text.
+
+                                      2-1
+                                  RESTRICTED
+                                 RESTRICTED
+
+The contents of each part may vary with the documents and an example which
+illustrates what constitutes these parts including the basic conventions of a
+standard layout in service writing is at Annex A to this section. This and other
+examples in this publication are designed to illustrate the position to the various
+elements, not all of which need appear in any one form of service writing.
+
+0204. Besides the basic parts, there are some essential parts in each large
+document/paper/publication which remain before the texts. These are known as
+prefatory (fË¡l¢ñL) part. All the elements before the beginning of chapter I, forms
+prefatory part, which may include title page, acknowledgement, abstract,
+executive summary, foreword, table of contents, etc. as in this manual.
+
+                              SUPERSCRIPTION
+
+Security Classification
+
+0205. The security classification is the category or grade given to the defence
+information contained in a document. It indicates the degree of danger to national
+security that would result from its unauthorized disclosure, and the protection to
+be given to guard against such a disclosure. The five security classifications are:
+
+        a.     TOP SECRET (A¢a ®N¡fe£u).        Information and material, the
+        unauthorized disclosure of which would cause exceptionally grave
+        damage to the nation is to be graded TOP SECRET.
+
+        b.       SECRET (¢h­no ®N¡fe£u).          Information and material, the
+        unauthorized disclosure of which would cause serious injury to the
+        interests of the nation is to be graded SECRET.
+
+        c.       CONFIDENTIAL (­N¡fe£u).      Information and material, the
+        unauthorized disclosure of which would be prejudicial to the interests of
+        the nation is to be graded CONFIDENTIAL.
+
+        d.       RESTRICTED (p£¢ja).      Information and material, the
+        unauthorized disclosure of which would be undesirable to the interests of
+        the nation is to be graded RESTRICTED.
+
+                                     2-2
+                                 RESTRICTED
+                                   RESTRICTED
+
+        e.       UNCLASSIFIED (A­nËZ£hÜ).   Information and       material,
+        which do not fall in to the above four categories is to be graded
+        UNCLASSIFIED. This category is necessary to provide appropriate
+        treatment to the information and materials by avoiding over
+        classification.
+0206. Originators of classified documents are responsible for applying the
+appropriate classification at the earliest opportunity. Over classification should be
+avoided. Military exercise papers/question papers/materials need to be protected
+from unauthorized disclosure. Therefore, an appropriate security classification to
+be given to the exercise papers/question papers/materials with a prefix
+‘Exercise/Examination’ (Ae¤n£me/fl£r¡).
+
+0207. A classified document is to be marked in such a way that its
+classification can be seen at a glance and cannot be overlooked. On typed or
+duplicated documents the security classification is to be typed on each page of
+typescript in capitals in full, not underlined, centrally at the top and bottom, front
+and back, of each page. Similarly, it can be rubber-stamped. If pre-printed or pre-
+stamped paper is used, the security classification need not be typed.
+0208. Translucent master copies and master copies fed into photocopiers are to
+be boldly rubber-stamped with the security classification if required, so that it
+can be reproduced clearly on all copies. Security classification mentioned on
+stencil paper or trace paper (e.g. spiral binding) can be good example to this
+effect.
+0209. In loose-leaf books, the security classification is to be printed or stamped
+centrally at the top and bottom of the front and back covers and similarly on
+every page. Loose-leaf binders are not permanent bindings and stapling is not a
+secure form of fastening. Spiral binding is an example of loose-leaf books.
+0210. In permanently and securely bound books, the security classification is to
+be printed or stamped in the centre of the top and bottom of the outside of the
+front and back covers, all pages including the title page and on any insertions
+such as maps, drawings, sketches or photographs which may be incorporated and
+which can be individually classified. JSSDM–2022 is an example of permanently
+and securely bound books.
+0211. In a document which embodies several self-contained sections, each page
+of every section is to bear the highest classification appropriate to the section; the
+whole document is to bear a classification at least as high as the most highly
+classified section it contains.
+                                       2-3
+                                   RESTRICTED
+                                  RESTRICTED
+
+0212. Each item of minutes of meetings or directives is to be marked with its
+own classification along each item heading so that subsequent action is not
+hampered by the general application of too high a classification, but the highest
+classification quoted is to be applied to the document as a whole. Section of such
+documents, when extracted, are considered as separate documents and classified
+according to the content of the portion extracted.
+0213. A covering letter or minute is to be marked with a classification
+appropriate to its own content, and attention is to be drawn to the classification of
+the enclosure by marking the letter or minute at the top and bottom of the first
+page, e.g. ‘RESTRICTED COVERING CONFIDENTIAL’ or ‘RESTRICTED
+COVERING SECRET’.
+Privacy Marking
+0214. Documents containing information that does not involve national
+interests and therefore does not merit security protection, may, nevertheless
+require a degree of protection or special handling. Documents, for example,
+concerning the personal affairs of staff may fall within this category. These
+documents are to be endorsed with the privacy marking ‘IN CONFIDENCE’,
+(e¨w³MZ †Mvcbxq) preceded if necessary by an appropriate prefix, e.g. ‘STAFF IN
+CONFIDENCE’, ‘MEDICAL IN CONFIDENCE’. Privacy markings are shown
+at the top and bottom centre of every page in capital letters, may be abbreviated
+and are not underlined. An ‘IN CONFIDENCE’ document that also contains
+classified information is to be marked with its security classification in addition
+to the privacy marking. The security classification will appear above the privacy
+marking at the top of each page and below it at the bottom.
+Precedence
+0215. Documents requiring quick handling may be given a precedence
+marking. There are two degrees of precedence:
+
+        a. IMMEDIATE (Sl¦¢l). The precedence ‘IMMEDIATE’ is to be
+        reserved for matters of great urgency. Correspondence bearing the
+        precedence ‘IMMEDIATE’ take priority over all others in preparation.
+        They are dispatched by the fastest means available and are given
+        precedence in handling and action by their recipients. Authorization of
+        ‘IMMEDIATE’ precedence is normally confined to senior staff officers
+        and commanders of independent units and must be used with
+        discrimination.
+
+                                      2-4
+                                  RESTRICTED
+                                   RESTRICTED
+
+        b. PRIORITY (ANËNZÉ). The precedence ‘PRIORITY’ is to be reserved
+        for matters which require precedence over ordinary business.
+        Correspondence bearing the precedence ‘PRIORITY’ are given first
+        precedence after those marked ‘IMMEDIATE’ although dispatched by
+        normal postal or other delivery services. ‘PRIORITY’ correspondence
+        can be originated by a commissioned officer or civilian of equivalent
+        status.
+
+While sending any correspondence to Bangladesh government offices, Armed
+Forces need to assign precedence corresponding to the civil offices basing on the
+practices of precedence in Civil Services as, either Top Priority (p­hÑ¡µQ ANË¡¢dL¡l),
+or Immediate (Awej‡¤^) or Urgent (Sl¦¢l).
+
+0216. Marking.          The precedence marking is shown in capital letters at the
+top right of the first page only and is not underlined or abbreviated. If the letter or
+draft is classified or has a privacy marking, the precedence marking is double-
+spaced below the line, and to the right of the security classification or privacy
+marking (see Annex A) except loose minute where it is shown on the left.
+0217. Message Precedence.         The precedence used in signal messages is
+shown in Section 15.
+Copy Numbering
+0218. All SECRET and TOP SECRET documents are to bear individual copy
+numbers, e.g. 'Copy Number 1 of 20' at the top right corner of the cover or the
+first page of the main document below the precedence marking, if any. Similarly,
+the first page of each annex, appendix, trace or other attachment forming part of
+the copy numbered document is given individual copy number. In addition, all
+operation and administrative orders, instructions and appreciations irrespective of
+their security classification are given copy numbers in the same way. When only
+one copy of a document requiring a copy number exists, it is shown as 'Copy
+Number 1 of 1'. The allocation of copy numbered documents is shown in the
+distribution list. When regular and wide distributions are made, each addressee
+should receive the same copy number every time. When copies of copy-
+numbered documents are authorized, they are to be marked 'Reproduction Copy
+Number .......... of ............' immediately above the original copy number. This
+would indicate the total number of copies reproduced. “Reproduction Copy
+Number…..of….” is to be typed or hand written while producing a reproduction
+copy. If any ‘Reproduction Copy’ is made, that has to be authorized by the
+originating authority in written.
+
+                                         2-5
+                                   RESTRICTED
+                                   RESTRICTED
+
+Address
+0219. Originator's Address. All official correspondences originated within
+and addressed to anyone of the three Services should contain the following
+components:
+          a.      Unit Designation.      The section of the directorate, if
+          applicable, should be shown within brackets after the directorate (in
+          abbreviated form) as follows:
+          AHQ                        NHQ                       Air HQ
+          AG's Br, PS Dte (PS-1)     Ops Br, Dte of Naval Ops Ops Br, Dte AD
+
+          b.      Name of Place.         Name of place, garrison, ship, base and/or
+          post town, using initial capital letters followed by post box if applicable.
+
+Contact Address
+
+0220. Originators contact address should include his telephone number with
+extension or cell phone number or both and email address e.g.:
+                                   Telephone/Cell: XXXXXXX Extension: 4338
+                                   Email: gso1_p&p@afd.gov.bd
+Date
+0221. In all service writing (exceptions Paragraph 0105b), the month and year
+are typed in abbreviated form under the address block. The signatory of a
+document is to insert the day of the month in manuscript at the time of signing. In
+correspondence where there is no address block, e.g. loose minute, the date is
+inserted in the subscription under the signature block. While writing the date in
+full, i.e. day, month and year in unabbreviated form, it is not necessary to include
+the day in its particular word form, e.g. first written as 1st or sixth written as 6th;
+the correct method is 01 or 06 (the day of the month is always expressed in two
+figures e.g. 05 or 11). In writing the month it is always spelt out in words and not
+substituted by the figure of its numerical order. Additionally, dates in Bangla
+may be inserted before the English date. Example for date is as follows:
+                                                    DSCSC
+                                                    Mirpur Cantt
+                                                    Tel/Cell: XXXXXX Ext: 4338
+                                                    Email: gso1_p&p@afd.gov.bd
+                                                 15 Bhadra 1429
+                                                30 Aug 22
+                                       2-6
+                                   RESTRICTED
+                                    RESTRICTED
+
+Non-Service Address
+0222. Letters to government departments and civilian organisations should bear
+the unabbreviated designation of the sender and recipient and have the full postal
+address (including street name if necessary) before the post town as discussed in
+Paragraphs 0219 and 0220. This is to ensure that the envelope can be correctly
+addressed. Officially recognized abbreviations e.g. WASA (Water and Sewerage
+Authority), Power Development Board (PDB) etc. can be used except in
+correspondence with foreign organisations.
+Identifying Reference
+0223. All service correspondence have an identifying reference, which may
+be a number or series of numbers (with digital code), a series of letters
+or alpha-numerical combination. Meanings of the codes are given in Annex B to
+this section. In message writing this is known as originator's number.
+Supplementary documents other than enclosures bear the reference of the parent
+document. The identifying reference is placed opposite the date as shown in the
+examples in the annexes to this section and section 3. For accountability of the
+pages of a note sheet and other important documents, identifying reference may
+be mentioned at every pages.
+                                        TEXT
+Salutation
+0224. In certain correspondence, e.g. formal or demi-official letters, it is
+customary to begin with the salutation 'Sir/Dear ...........................' as the case
+may be above the subject heading, if any or the text. This is normally inserted in
+manuscript by the signatory at the time of signing except in case of formal letters
+when it is typed in. No comma is to be used after the salutation.
+Headings
+0225. When a document is lengthy or the subject being complex, the text is
+divided by headings. These assist the writer’s logical development of the theme
+and direct the reader’s attention to what follows. In computer typed papers/
+correspondences, the heading may be made 'bold'. Except in operational writing,
+headings should stand on its own and not form part of any sentence that follows,
+e.g. the following is wrong:
+        ‘Plantation.      Will be discussed tomorrow.’
+The correct version should be:
+        ‘Plantation.      The plantation programme will be discussed tomorrow.’
+                                        2-7
+                                    RESTRICTED
+                                   RESTRICTED
+
+0226. The Subject Heading or Title.            Most documents start with short
+statement of the subject called the subject heading or title. In a simple document
+and Service correspondence, the subject heading starts at the left-hand margin in
+underlined capitals and are not followed by a full stop. Subject headings in
+annexes, appendices, maps, traces, overlays, charts, graphs and other display
+documents should be placed in centre, in underlined capitals and are not to be
+followed by full stops. In documents involving the use of main headings (see
+Paragraph 0227), the subject heading is treated as a main heading (except in case
+of the supplementary documents as just mentioned).
+0227. Main Headings. In documents involving the use of both main and group
+headings such as service papers, appreciations, publications and precis, the main
+heading is placed centrally over the typed area, in underlined capitals and is not
+followed by a full stop. In a 2-line heading, if one line is necessarily shorter than
+the other, the second line is to be the shorter and placed centrally under the first
+line.
+
+0228. Group Headings. A group heading is used to introduce one or more
+paragraphs on the same general subject. It covers all subsequent paragraphs
+before the next main or group heading. It occupies a line by itself beginning at
+the left-hand margin; it is not numbered and is not followed by a full stop. Group
+headings are in initial capitals for important words and underlined.
+
+0229. Paragraph Headings.        A paragraph heading covers only its own
+paragraph and any integral sub-paragraphs. Initials capitals are for important
+words; the heading is underlined and followed by a full stop. Every paragraph
+may not warrant a heading but, once a paragraph heading is used, succeeding
+paragraphs down to the next main or group heading should have headings. A
+paragraph heading may be on a line by itself (followed by a full stop), followed
+immediately by sub-paragraphs as in Paragraph 0241.
+0230. Sub-paragraph Headings. Sub-paragraph headings and those of any
+further subdivisions follow rules similar to those for paragraph headings.
+References
+
+0231. Reference to other Papers. If reference is made to any document not
+enclosed with a letter or paper, the title or identifying reference and date of that
+document is shown immediately above the text and below the word
+`Reference(s)`. The originating authority is to be prefixed to the identifying
+reference when this is not self-evident in the letter. Each document listed is
+identified by a capital letter and may be referred to in the text, e.g. `Reference A`.
+Alternatively:
+                                       2-8
+                                   RESTRICTED
+                                  RESTRICTED
+
+        a. The system of notation for footnotes outlined in Paragraph 0246
+        and 0417 may be used as the reference system.
+
+        b. When a single reference only is involved, and particularly in demi-
+        official letters and letters to civilians, it may be included in the text or in
+        the space sometimes provided in a printed letter-head.
+
+        c. While referring JSSDM, the para number should be preceded by the
+        part number e.g. JSSDM Part-I Para 0110, JSSDM Part-II Para 0110,
+        JSSDM Part-II Para 0930, etc.
+
+0232. Reference to Signal Messages.        Reference to signal messages is made
+by quoting the originator, originator’s number and date-time group as shown in
+Paragraph 1513 of Section 15.
+
+0233. Reference to Extracts and Translations.         Extracts from a document
+are identified by the original chapter, article and paragraph numbers, as
+appropriate, but never by page numbers. When a document is translated or
+reprinted, the original chapter, article and paragraph numbers are retained but
+page numbers may be changed.
+
+0234. Reference to Maps and Charts.          A map is identified by the country
+or geographical area, sheet number and scale. If applicable, a map series may
+precede the country or area and the edition may be shown before the scale. A
+chart is identified by the number and title.
+
+Paragraph Numbering
+
+0235. Paragraphs are numbered in Arabic numerals, but a single paragraph is
+not numbered and indented except when it contains sub-paragraphs. A paragraph
+can never have a single sub-paragraph and so on except in writing attachments/
+detachments or grouping in operational writing. Sub-paragraphs are to be
+numbered alphabetically in small letters, but letters `I` (India) and `O` (Oscar)
+are not to be used to avoid confusion with `1` (one) or `0`(Zero). If a paragraph
+contains a list or example which has no sub-paragraph number (s) then the list or
+example is to be indented one sub-division to the right of the paragraph number.
+Similar rules apply to sub-paragraphs and so on. An example is at Paragraph
+0105a (4). In letters to the civilians, the writer should be guided by good taste in
+deciding whether to number paragraph, however, paragraph in letters of
+condolence would never be numbered.
+
+                                      2-9
+                                  RESTRICTED
+                                 RESTRICTED
+
+0236. The method of numbering paragraphs and sub-paragraphs and of
+indenting sub-paragraphs is given in Annexes A and B to this section.
+0237. In a document containing many separate parts, chapters and sections like
+this publication, the method used for numbering the paragraphs varies in that the
+chapter/section number and a series of one or more noughts precede the
+paragraph number. To provide continuity leading onto the next series of
+paragraphs in other chapters/sections, the unused paragraphs are listed at the end
+of the preceding chapters/sections, grouped together and annotated by the word
+‘Reserved/ msiw¶Z’.
+Contents
+0238. Punctuation.       Normal punctuation is used in the text of service
+writing. Lists and sub-paragraphs are introduced by a colon (except where
+immediately following a paragraph heading as in Paragraph 0241), and each sub-
+paragraph ends with a full stop unless further subdivided.
+0239. Spelling. The authority for spelling is the latest edition of `The Concise
+Oxford Dictionary`. The first spelling given should normally be used.
+0240. Underlining. Underlining is not normally used to achieve emphasis in
+the text. However, bold font may be used to achieve emphasis in text, particurlaly
+while writing unit name, Nom De Plume, ordinals in demi official letter, etc.
+0241.   Abbreviations.
+        a.      General.
+                (1)     In service writing, abbreviations used are those shown in
+                Section 16.
+                (2)     However, other abbreviations/acronyms may be used if
+                the writer considers them helpful; in this case they must be
+                explained the first time they appear in the text e.g. ‘Covering
+                Forces (CF)’ or be listed in a separate annex, unless they are:
+                         (a)     In Section 16 of this manual.
+                         (b)     In general use, e.g. UN, NATO, etc.
+                         (c)     Specialist abbreviations well understood by both
+                         writer and all likely recipients of the paper in question.
+                         See Paragraph 1613 at Section 16.
+                (3)    Once a word has been abbreviated, it is to be abbreviated
+                throughout the same document.
+                                     2-10
+                                 RESTRICTED
+                       RESTRICTED
+
+b.   Other Rules.
+     (1)     Composite Nouns/Verbs.           Any composite noun or
+     verb, or one containing a prefix or suffix, may be abbreviated by
+     abbreviating that part of it for which there is an authorized
+     abbreviation, e.g. mob (mobilize), demob (demobilize), minefd
+     (minefield). Exceptions are in cases where there is an authorized
+     abbreviation with prefix or suffix, e.g. C attk (counter attack).
+     (2)     Full Stops and Commas.        Full stops are not to be
+     used in abbreviations and between a person`s initials or
+     decorations/ qualifications. Commas are used after the name and
+     between abbreviations of branches, decorations, qualifications,
+     and service/regiment/corps e.g.:
+             Brig Gen H M Masihur Rahman, SGP, SPP, ndc, afwc, psc
+             Air Cdre S M Muied Hossain, BPP, OSP, ndc, psc, GD(P)
+             Col Md Khairuzzaman Mollah, SUP, hdmc, afwc, psc
+             Lt Col Mohammad Saifur Rahman Sohel, SUP, psc, Inf
+             Cdr A K M Toriqullah, (L), psc, BN
+     (3)       Plurals.       Some abbreviations indicate both the
+     singular and the plural forms and do not require the
+     addition of ‘s’ e.g. rat (ration, rations). Abbreviations of
+     measurements remain unaltered in the plural e.g. m (metre,
+     metres), l (litre, litres), hr (hour, hours). If the addition of ‘s’ is
+     necessary, it is always placed at the end of the abbreviation e.g.
+     GOCs (General Officers Commanding). An ‘s’ may be added
+     only to the abbreviation of a noun. However, the first and third
+     person singular of a verb which may be abbreviated are identical
+     e.g. fol (follow, follows).
+     (4)      Verbs.       If there is an authorized abbreviation for a
+     particular verb in Section 16 which is in present indefinite form,
+     the same should be used for abbreviating all derivatives and
+     tenses of that verb e.g. sp {(support), support (ed), support (ing),
+     support (er), support (ive)} etc. For clarity, the word in full in its
+     intended form may be used in case of confusion. Exceptions are
+     in case of a particular tense of a verb or a specific derivative of a
+     word e.g. bldg (building), retd (retired), addl (additional), etc.,
+     which will be used only for that particular word(s) as given and
+     for no other derivatives.
+
+                             2-11
+                       RESTRICTED
+                         RESTRICTED
+
+        (5)     Multiple Meanings.       Some abbreviation can be used
+        for two or more meanings as given at Section 16 e.g. AB for ‘air
+        borne’ and ‘after burner’. Again in case of confusion, the same
+        may be written in full as mentioned.
+
+        (6)     Ampersand.      An ampersand ‘&’ is to be used instead
+        of ‘and’ where appropriate in departmental and similar titles, e.g.
+        AA&QMG, R&D, Messrs Rahman & Sons.
+
+        (7)     Compass Points. The four cardinal points of the
+        compass are always written in full in small letters, e.g. north.
+        The intermediate points can be written as shown:
+                (a)   Abbreviated using the initial letters, e.g. NE, NNE.
+                (b) In full using a hyphen, e.g. north-east, north-north-
+                east.
+        (8)      Capitals. If the first letter of the abbreviated item is in
+        capitals as in Section 16 and other abbreviations referred there
+        to, it will be in capitals throughout its use anywhere e.g. C attk,
+        Atk, etc.
+
+c.       Use in Service Writing. In both operational and non-operational
+writing and signal messages maximum use of abbreviations is to be
+made, exceptions being the paragraph headings of operational and
+administrative orders in operational writing (See Paragraph 1106 and
+Section 12) and for non-operational writing in demi-official, commanded
+and formal letters and service papers (except for decorations,
+qualifications and arms/services). However, in BAF abbreviations may
+be used while writing service papers on operational matters.
+d.      Use with Allied Forces and Non-service Authorities. In service
+writing, no abbreviations as at section 16 are used when corresponding
+with allied forces and non-service authorities. Officially recognized
+abbreviations e.g. WASA (Water and Sewerage Authority), Power
+Development Board (PDB) etc., can be used except in correspondence
+with foreign organizations. However, abbreviations may be used in
+operational writing having para-military forces as addressees.
+e.     National Distinguishing Letters.        The distinguishing letters
+which may be used to identify nations are at Annex D to Section 16.
+
+                            2-12
+                         RESTRICTED
+                                  RESTRICTED
+
+0242. Numerals.          Fractions and whole numbers, except ‘one’ are to be
+written in figures. When a number is the first word in a sentence or when it refers
+to quantitative number of formations units, ships, bases etc., it should be spelt out
+to avoid confusion (see Paragraph 0244b). The figure ‘1’ is used whenever it
+occurs in dates, paragraph and chapter numbers, serial numbers in tables and
+diagrams, etc., If adjacent numbers indicate quantities and dimensions, either the
+first should be spelt out, e.g. ‘twelve 10-ton trucks`, or the adjacent numbers
+should be separated by the multiplication sign, e.g. ‘12 X 10-ton trucks’. The
+procedure for referring to fractions and whole numbers in signal messages is at
+Section 15. Ordinals are usually abbreviated e.g. 6th Staff Course, 1st World War.
+
+0243.   Date and Time.      These are written as follows:
+
+        a.      Date.     A date is written in the sequence: day, month, year, e.g.
+        01 August 2022. A date is abbreviated by using the number of the day in
+        two figures, (02 in case of day 2) the first three letters of the month and if
+        necessary by adding the last two digits of the years, e.g. 01 Aug 22 or 01
+        August 2022 in full.
+
+        b.      Night.     A night is described by both dates over which it
+        extends, e.g. Night 29/30 August or Night 30 August or Night 30
+        August/01 September.
+
+        c.      Midnight.       The term ‘midnight’ is not used when referring to
+        that precise time. ‘0000 hours’ and the date are used e.g. ‘0000 hours 16
+        August’ represents midnight on the night 15/16 August. However, there
+        are special rules for message/signal writing (see Paragraph 1512).
+        d.      12-Hour Clock System.         While never used in service writing,
+        time expressed in terms of the twelve-hour clock followed by ‘am’ or
+        ‘pm’ is normal in dealing with civilians and in invitation to social events.
+        e.       Time.       Time is expressed in four figures by reference to the
+        24-hour clock; the first pair of figures indicates the hour and the second
+        pair the minutes past the hour.
+                (1)     In Operational Writing.       In operational writing, the
+                four figures are followed by a time zone suffix, e.g. 2359F. The
+                time zone system is explained in Annex C to this section. In
+                appreciations and orders where the format includes the phrase
+                ‘Time Z Used Throughout the Order:..’, times in the text do not
+                require a zone suffix.
+
+                                     2-13
+                                  RESTRICTED
+                                RESTRICTED
+
+               (2)     In Service Writing.       In other service writing, the four
+               figures may be followed by the time zone suffix or ‘hours’ when
+               confusion with other figures, such as grid references and other
+               time zones, is possible, e.g. 1100F or 1100 hours.
+
+       f.       Date-Time Groups (DTG).          DTGs are used to give the date
+       and time including time zone of origin of signal messages and certain
+       orders. They consist of six figures, (the first two giving the date and the
+       last four the time) followed by a time zone suffix.
+               (1)        In Operational Writing.      The format in appreciations
+               and orders includes the phrase ‘Time Z Used Throughout
+               the......`. Date-time groups in the text of appreciations and orders
+               in such cases are followed by the first three letters of the month,
+               e.g. 221415 Aug. Where there is a possibility of an ambiguity,
+               this may be amplified by the addition of the last two figures of
+               the year, e.g. 221415 Aug 22.
+               (2)      In Service Writing.      The DTG may also be used in
+               the text of service writing. It should then be followed by a time
+               zone suffix when the format does not include the phrase ‘Time
+               Zone Used Throughout the...’ and may be amplified by the
+               addition of the month and year, e.g. 1415F on 22 August 2022 is
+               written 221415F August 22.
+               (3)     In Signal Messages.  See Paragraph 1504 d of Section
+               15. It is to be noted that DTGs of signal messages must be
+               followed by a time zone suffix and first three letters of the
+               month.
+       g.      In Relation to an Operation.      The system of relating days and
+       hours to an operation is at Annex D to this section.
+0244. Description of Formations, Units and Detachments. Titles of formations
+and units are normally written in their abbreviated form as shown in the
+following examples:
+       a.      Identifying numbers are written in Arabic numerals before the
+       description:
+               11 Inf Div (11 Infantry Division)
+               35 PCS (35 Patrol Craft Squadron)
+               5 Sqn (Number 5 Squadron)
+               ][
+
+                                   2-14
+                                RESTRICTED
+                                RESTRICTED
+
+       b.     Quantitative numbers of formations, units, ships, bases etc., are
+       always written in full:
+
+               One division or one div (a single division)
+
+               One Patrol Craft Squadron or one PCS (a single Patrol Craft
+               Squadron)
+
+               Twenty-eight squadrons or twenty-eight sqns
+
+       c.       A formation or unit from which a portion is excluded is
+       described as ‘2 Inf Bde less two bns’ (2 Infantry Brigade less two
+       battalions).
+
+0245. Description of Locations and Areas. There are many ways of describing
+locations, positions and areas. These are enumerated below:
+
+       a.      Locations and Points.      There are five ways of identifying
+       positions:
+
+               (1)     Place Name. In addition to the place name, the grid
+               reference or latitude and longitude is normally given the first
+               time the place is mentioned.
+
+               (2)     Grid Reference.     The group of 4 or 6 figures must
+               always be preceded by the alphabetical block of 2 capitals
+               designating the 60-nautical mile square in 1:1,000,000 maps and
+               the 100,000-yard square in 1:250,000 maps.
+
+               (3)      Geographical Reference System (GEOREF).        The grid
+               system based on latitude and longitude is known as GEOREF.
+               Each 15-degree square is identified by a pair of letters; within
+               each 15-degree square, one-degree squares are also identified by
+               2 letters. A full GEOREF would therefore be ML NK 2052; the
+               abbreviation would be NK 2052.
+
+               (4)      Latitude and Longitude. It is usual to give the 4 or 5
+               figures indicating degrees and minutes of arc, followed by the
+               letter appropriate to the particular hemisphere, without the use of
+               symbols or words denoting degrees or minutes, e.g. ‘5452N
+               00136W’.
+
+                                   2-15
+                                RESTRICTED
+                         RESTRICTED
+
+     (5)        Bearing and Distance from a Simple Reference Point.
+     A bearing may be given in points of the compass or in figures, e.g.
+     ‘north-west’ or ‘315 degrees (3150)’ or ‘5600 mils’; bearings are
+     given as from true magnetic or grid north and the type used must
+     always be specified. A bearing and distance is usually expressed
+     with the bearing-from before and the distance-from after, the name
+     of the reference point, e.g. ‘3150 (T) NAB TOWER 7.9 miles’ or
+     ‘5600 mils (T) NAB TOWER 9.8 kilometres’.
+
+b.   Ground Locations, Areas and Boundaries.
+
+     (1)        Names of Places and Features.        The names of places
+     and features are spelt exactly as on the map in use, except that word
+     ‘River’, precedes the names of all rivers regardless of the language
+     in which this word appears on the map. The addition of a grid
+     reference square is nearly always necessary, and for a river it
+     should be square in which the name appears.
+
+      (2)       Roads, Tracks and Railways.      Roads, tracks and
+     railways are described by the names of places located on them. The
+     word ‘Road`, ‘Track’ or ‘Railways’ must precede, not follow the
+     place names, e.g. ‘Road Dhaka-Tangail’.
+
+     (3)         River Banks.     River banks are described as right or
+     left from the point of view of an observer facing downstream or, if
+     this cannot be done, by using cardinal points. ‘Near` or ‘far’ may be
+     used with reference to the friendly force in operations involving a
+     river crossing.
+
+     (4)        Canals.      The name of the canal or names of places on
+     it are used to describe a canal. The banks are usually described by
+     means of the cardinal points, e.g. the north bank of the GK Canal.
+
+     (5)         Channels.         Channels are described by name, or by
+     the name of the nearest feature or town, followed by the word
+     `Channel`. Buoys in a channel are referred to by name, port hand or
+     starboard hand (left and right-hand side of the channel, facing in the
+     direction of the main or flood stream), by their shape (can, conical,
+     spherical, etc.), or by position.
+
+                            2-16
+                         RESTRICTED
+                                 RESTRICTED
+
+             (6)       Routes.     When movement is involved, a route is
+             described by a sequence of points on the route named in the
+             direction of movement. When no movement is involved, the
+             sequence of points named is to be from left to right or rear to front,
+             assuming that the person designating the route is facing the enemy.
+             Cardinal points may be added if required.
+
+             (7)      Areas.     An area is described by taking the northern
+             most point first and giving the remaining points in clock-wise
+             order.
+
+             (8)        Positions.      Positions are described from left to right
+             and front to rear facing the enemy. To avoid confusion, cardinal
+             points may be used to describe flanks, rather than ‘left’ or ‘right’.
+
+             (9)         Boundaries.      Boundaries are designated by easily
+             distinguishable features on the ground in the sequence in which
+             they occur. They are described from rear to front during an advance
+             and from front to rear in defence and withdrawal. If generally
+             parallel to the front, e.g. rear boundaries, they are described from
+             left to right facing the enemy. Cardinal points may be added if
+             required. When describing boundaries between units and
+             formations, the words ‘inclusive’ or ‘exclusive’ are used before the
+             place to which they refer. The description of a boundary must state
+             specifically to which unit or formation an area or a point is
+             inclusive or exclusive.
+
+0246. Notes.    Amplification of specific points in tables or diagrams may be
+made by using ‘Notes’. They are not normally used in the text of service papers.
+When used:
+
+        a. Notes are numbered consecutively in Arabic numerals, the series
+        starting anew for each chapter. They are listed under the heading ‘Notes:’
+        at the foot of the page on which they occur, on the left margin above the
+        security classification.
+
+        b. Attention is drawn to the relevant note by inserting the appropriate
+        numeral in brackets immediately after the point. See the annexes to this
+        section for examples.
+
+                                    2-17
+                                 RESTRICTED
+                                 RESTRICTED
+
+0247.    Cross References.    Reference to another part of the text in the same
+paper is made by paragraph only, e.g. ‘see Paragraph 0231’. The words ‘above’
+and ‘below’ are not used.
+
+                                SUBSCRIPTION
+
+Complimentary Ending
+
+0248. This is inserted in formal correspondences, e.g. demi-official letters,
+where a salutation precedes the subject heading. It is customary to end such
+correspondence by inserting ‘Yours faithfully’ written as shown in the example
+in Annex E to Section 3. In the case of demi-official letters, this is ‘Yours
+sincerely’ or any other appropriate ending. See also Annex A to Section 3.
+
+Signature
+
+0249. In all service writing, other than demi-official letters, the identity of the
+signatory is to be shown in the signature block together with his rank and
+appointment. When the signatory signs a document on behalf of his superior, the
+appointment of the superior on whose behalf the document is signed is shown,
+with the word ‘For’ typed before the appointment. Routine correspondence
+addressed either singly or simultaneously to higher and lower addressees can be
+signed for the commander. In such cases two separate signature blocks are not
+necessary. The signature block therefore contains:
+
+        a.       On the top line, initials and the name of the signatory in block
+        capitals without brackets. No decorations, awards or symbols are to be
+        shown.
+
+        b.      On the centre line, the signatory’s rank and service where
+        appropriate.
+        c.       On the last line, the appointment of the signatory or the
+        appointment of the individual on whose behalf the document is signed
+        for by the signatory.
+Examples of signature block are as follows:
+
+        ABUL MANSUR MASUD ALAM AHMED SHARIF AZAD HOSSAIN
+        Brig Gen    Lt Cdr BN    Wg Cdr       CSO 1 (Stat)
+        For AG      For ACNS (O) For ACAS (P)
+
+                                    2-18
+                                 RESTRICTED
+                                  RESTRICTED
+
+         FERDOUS H SALIM M HASAN TARIQUE SHAHARUL HUDA
+         Brig Gen        Cdre BN         Air Cdre
+         DMO             DNO             DAO
+
+        ­M¡¾cL¡l g¡l¦L ®q¡­pe   ®j¡q¡Çjc B¢lg¥l lqj¡e    ®j¡q¡Çjc l¡­nc¤m Cpm¡j N¡S£
+        ­mx L­eÑm               Lj¡ä¡l ¢hHe              ECw Lj¡ä¡l
+        Lj¡ä¡l Hl f­r           f­r f¢lQ¡mL              Lj¡ä¡l Hl f­r
+0250. Signing and Use of Ink. The signatory should personally sign all copies
+of documents going to action and information addressees. When numerous
+copies are produced it is usually acceptable for the signatory to sign the original.
+It is the prerogative of the Service Chiefs to sign in green ink. Formation
+commanders, base commanders, commandants of training institutions when
+corresponding within their respective formations or establishments may also sign
+in green ink. For all other official correspondence black ink is to be used.
+0251. Signatory.          When a commander or senior officer has personally
+drafted or approved an urgent policy or other important document and is unable
+to sign through unavoidable absence, the document can be signed over the
+commander’s complete subscriptions block by an officer on his behalf. However,
+Services practice may vary on this aspect. The officer signing must identify
+himself fully and explain why he is signing. On these occasions ‘For’ is written
+in manuscript alongside the signature block together with an explanation, e.g.
+‘Absent on duty’, also in manuscript. The person signing should insert below his
+signature sufficient detail of his name, rank, appointment etc. to enable him to be
+clearly identified e.g.:
+
+                                                 Mohammad Ali
+                                                 MOHAMMAD ALI
+                                                 Maj
+       Mohammad Ali                              DAA&QMG
+       REZAUL KARIM                              REZAUL KARIM
+       Brig Gen                                  Brig Gen
+   For Comd                                  For Comd (Absent on duty)
+       (Wrong example)                           (Correct example)
+Recommendations, important requests or opinions should always be signed by
+the commander himself. Letters of minor censure may be signed by the senior
+staff officer but only after approval by the commander. Serious reprimands
+should be signed by the commander. Junior staff officers must not sign letters
+refusing a request.
+                                     2-19
+                                RESTRICTED
+                                 RESTRICTED
+
+Supplementary Documents
+0252. Annexes.        Supplementary documents that amplify the parent document
+are called annexes. They are used when the inclusion of all the detail in the body
+of the parent document would make it cumbersome. Annexes should normally be
+attached to the document to which they relate but may be issued separately if
+needed. Distribution of annexes dealing with specialized matters which do not
+concern all recipients of the main document may be restricted to those who
+require special information. Annexes should be:
+
+        a.      Referred to the text of the parent document.
+        b.      Lettered consecutively in capitals in the order in which they
+        appear in the text. Single annex will also be numbered.
+        c.      Given their own subject headings.
+        d.       Listed at the close of the parent document prior to the
+        distribution, under the heading ‘Annex (es)’ which is followed by a colon
+        and not underlined. While listing the wording used to identify the annex
+        (es) will be the same as their subject headings.
+        e.      Copy numbered in accordance with Paragraph 0218.
+The annex block is inserted in the top right-hand margin of the first page in
+underlined capitals showing the identifying reference of the main document, so
+that annexes can be identified if for any reason they become detached, the form
+of wording normally used which may be on 2 or more lines as convenient, being:
+
+        ANX A TO                                  ANX A TO
+        00.03.2600.005.01.008.22.001              SER 5 TO
+        DT      NOV 22                            EX AGNI BEENA
+
+0253. Appendices. Supplementary documents that amplify an annex are called
+appendices. They should be:
+
+        a.      Referred to in the text of the parent annex.
+        b.      Numbered consecutively in Arabic numerals in the orders in
+        which they appear in the text. Single appendix will also be numbered.
+        c.      Given a subject heading like that of an annex.
+
+                                    2-20
+                                 RESTRICTED
+                                 RESTRICTED
+
+        d.       Listed at the close of the parent annex, (but not the main parent
+        document), under the heading ‘Appendix (ces)’, which is followed by a
+        colon and is not underlined just like an annex. The wording used to
+        identify appendices will be the same as their subject headings.
+        e.       Copy numbered as an annex.
+The appendix block is inserted in the top right-hand margin of the first page in
+underlined capitals, showing the identifying reference of the main document, the
+form of wording normally used, which may be on 3 or more lines as convenient,
+being:
+        APPX 1 TO
+        ANX A TO
+        00.03.2600.005.01.008.22.001
+        DT      NOV 22
+0254. Enclosures.        Documents those are complete in themselves and sent
+with a covering document are called enclosures, they are referred to in the text of
+the covering document. Enclosures are listed numerically at the end of the parent
+document prior to distribution under the heading ‘Enclosure’ and stating the title,
+reference and date as appropriate. If an enclosure has a copy number, this is also
+to be stated against such listings (see Annex A to Section 2).
+Address/Distribution
+0255. Recipient's Address.      This is written in the same manner as in
+Paragraph 0219a. If there are several addressees, then see Paragraph 0257 for its
+layout. When the department, branch or directorate required taking action is
+known to the sender then this is included under the Headquarters/unit's
+designation. To save space, addressee may also be written in single line and may
+also be placed in columns as shown at Annex D to Section 3. Even several
+addressees can also be placed in single line using ‘/’ before new address.
+Examples are as follows:
+HQ 9 Inf Div Commander BN Fleet AOC                HQ 33 Arty Bde
+GS Br           New Mooring            BAF BBD     AQ Br
+Savar Cantt     Chattogram             Dhaka Cantt Cumilla Cantt
+Or
+HQ 9 Inf Div (GS Br/ AQ Br/ EME Br/ Ord Br/ HQ Coy)
+Or
+NHQ, Ops Br/ DNO/ DNP/ D Sig, Banani, Dhaka-1213
+Or
+Air HQ, Ops Br/ Dte AD / Dte Edn, Dhaka Cantt
+and as shown at Annex D to Section 3.
+                                     2-21
+                               RESTRICTED
+                                     RESTRICTED
+
+0256. In a service writing, the addressees are listed under the heading
+‘Distribution’ immediately after the signature block, but on the left hand side of
+the last page or on a separate sheet of paper. However, if a letter/document
+contains supplementary documents, the distribution is shown immediately after
+listing the supplementary documents e.g. annexes, enclosures, etc.
+
+0257. When there are several addressees the order in which they are listed in
+the distribution is:
+
+         a.       External action addressees. (1)
+
+         b.       External information addressees. (1)
+
+         c.      Internal addressees (action and information area shown
+         separately if required). The order in which internal addressees are listed
+         depends on the established practice of the originating service or
+         headquarters.
+
+0258. If more than one copy of document is being sent to any addressee the
+number of copies is added in brackets unless it is ‘copy numbered’ when the
+copy numbers are shown. See Paragraph 0218.
+
+0259. When it is necessary to ensure that correspondence is seen by a certain
+individual, the expression, ‘For the attention of/ `„wó AvKl©Y: ............’ is inserted in
+brackets beneath the addressee above all other details of the address and the
+envelope is similarly marked.
+
+0260. Examples of the layout of distributions are shown at the annexes to this
+section and Section 3.
+
+Note:
+1.       External addressees are listed in order of seniority of size, then as per the
+seniority of Arms/Svcs. Within the seniority of Arms/Svcs they are shown in
+order of numerical title, if appropriate or alphabetically. In the Navy,
+correspondence is always addressed to the holder of the appointment, not to a
+headquarters or unit. See Section 3, Annex A, Appendix 2.
+
+                                        2-22
+                                     RESTRICTED
+                                 RESTRICTED
+
+Page Numbering
+
+0261. All pages of all documents, other than single-page documents (for
+exceptions see Paragraph 0262), are numbered at the bottom centre, immediately
+above the security and privacy markings. Pages of chapters are normally to be
+numbered consecutively from the beginning to the end of the whole document.
+When this is administratively inconvenient, e.g. in the case of a loose-leaf book
+or when constituent parts are circulated separately, pages may be given the
+chapter or section number followed by the page number, as in this publication.
+Pages of an annex, including a single page annex, are then given the letter of the
+annex followed by the page number, e.g. ‘A-1’, ‘A-2’ etc. In addition pages of
+annexes that follow chapters, as in this publication, are to have the annex letter
+preceded by the chapter number, e.g. ‘1A-1’, ‘1A-2’, etc. The pages of an
+appendix including a single-page appendix, are given the annex letter followed
+by the appendix number and the number of the page, e.g. ‘A1-1’, ‘A1-2’, ‘B1-2’
+etc.
+0262. For all copy numbered documents as shown at Paragraph 0218, the
+following rules also apply:
+        a.      Single page documents are to be page numbered.
+
+        b.       The main document is to include, below the copy number a
+        statement of the total number of pages in the entire document (including
+        all annexes or other attachment but not enclosures) in the form ‘Total
+        Pages........’
+
+        c.       The total number of pages in the main part (excluding annexes
+        and other attachments) is to be shown on the first page of the main part
+        in the form ‘1 of 1’ or ‘1 of 20’.
+
+        d.      The total number of pages in each annex, appendix or other
+        attachment is to be similarly shown on its first page in the form ‘A-1 of
+        1’, ‘B2-1 of 3’. Either system of page numbering described in Paragraph
+        0261 may be adopted but whatever system is used, it must ensure that it
+        will be clearly evident whether any pages are missing when a document
+        it mustered or the pages checked e.g. ‘B-1 of 1’, ‘A1-1 of 2’ etc.
+Privacy Marking
+
+0263.   See Paragraph 0214.
+
+                                    2-23
+                                 RESTRICTED
+                                   RESTRICTED
+
+Security Classification
+
+0264.   See Paragraphs 0205-0213.
+
+                                 OTHER RULES
+
+Expressing Orders and Intentions
+
+0265.   Orders and instructions are conveyed by the use of the following words:
+
+        a.      ‘Is to’ or ‘Are to’ (Imperative).   The words ‘is to’ or ‘are to’ are
+        used to convey a direct order.
+
+        b.      ‘To’ (Infinitive). The infinitive form of the verb is used to
+        express an aim or intention e.g. ‘To take up defence…’. The executive
+        form is used to give out a mission e.g. ‘Hold river line...’ or ‘Capture
+        Objective A...’, etc.
+
+        c.       ‘Should’. In directives or instructions ‘should’ may be used to
+        express the requirement where it is necessary to leave initiative and
+        discretion to the commander on the spot.
+
+0266. Specific Meanings.      The following words have specific meanings in the
+Services:
+
+        a.       ‘Intend’.     ‘Intend’ is used to signify an intention, which will
+        be carried out unless countermanded by higher authority.
+
+        b.     ‘Propose’.     ‘Propose’ is used, more usually in signal messages
+        to suggest a course of action, which will not be carried out unless
+        approved by a higher authority.
+
+        c.      ‘Request’.   When used by a senior to a junior, ‘request’ is a
+        courteous method of conveying an order; otherwise its meaning accords
+        with English usage.
+
+        d.      ‘Will’.     The verb ‘will’ is used only to convey information or
+        express the future tense.
+
+                                      2-24
+                                   RESTRICTED
+                                  RESTRICTED
+
+Capitals
+
+0267.   Capital letters are used for every letter of the following:
+
+        a.      Subject headings.
+
+        b.      Main headings.
+
+        c.      Code words and nicknames.
+
+        d.      Proper nouns in operational writing.
+
+        e.      Precedence markings.
+
+        f.       Security classifications and privacy markings on top and bottom
+        of all pages.
+
+        g.      The word ‘DRAFT’ at the top centre of a draft.
+
+        h.       Paragraph headings of written operational and administrative
+        orders. (See Paragraph 1106 and Section 12)
+
+        j.      Certain abbreviations, as shown in Section 16 of this manual.
+
+        k.       The names of naval ships including establishments and
+        installations.
+
+        l.      The reference block on annexes and appendices (top right).
+
+        m.      The postcode where applicable.
+
+        n.      The name of the signatory in the signature block of a letter.
+
+        p.      Time zone when spelt out in full.
+
+        q.      Message writing and writings in army symbols.
+0268. In addition to the opening word of a sentence, capital letter is used for
+the first letter of:
+        a.      A proper noun or adjective derived from them, e.g.
+        ‘Bangladesh’, ‘Bangladeshi’.
+                                     2-25
+                                  RESTRICTED
+                                 RESTRICTED
+
+        b.     The important words in group, paragraph and subparagraph
+        headings.
+        c.      The first word of listed items.
+        d.     The principal words in the list of subsidiary documents i.e.
+        annexes, appendices, enclosures, flags, side flags etc. and that of the
+        agenda of a meeting.
+        e.     Words associated with the particular, e.g. ‘Paragraph 3’, ‘Page
+        2’, ‘Annex A’ or by rule of common usage e.g. days of the week and
+        months of the year e.g. ‘Thursday’, ‘January’.
+        f.       The principal words in ranks and appointments when referring to
+        a specific individual or appointment, but not when using the word
+        collectively.
+        g.      The principal words in column headings.
+        h.      The words Service(s), Army, Navy, Air Force where they refer
+        to the Bangladesh Armed Forces e.g. ‘service writing’, ‘Army officers’.
+        j.      Certain abbreviations that are already capitals as shown in
+        Section 16 of this manual.
+Drafting and Typing
+
+0269. Manuscript Drafts.          Manuscript drafts should be double spaced and
+similar in layout to the required format.
+
+0270. Rules for Typists.      An example of the standard layout is at Annex A
+and rules governing layout are outlined in Annex B to this section. Detailed
+examples of individual types of correspondence for use by the three Services are
+in the annexes to Section 3.
+
+0271.   The Rules Governing Preparation of Signal Messages.      See Section 15.
+
+Code Words and Nicknames
+
+0272. A code word is a single word to provide security cover for reference to a
+particular classified matter, whereas a nickname consists of two words used for
+convenience for reference to a particular matter where security protection is not
+required.
+                                    2-26
+                                 RESTRICTED
+                                RESTRICTED
+
+0273. Code Word.         The primary purpose of code words is to ensure proper
+security concerning intentions and to safeguard information pertaining to
+classified operations and projects. Examples of the use of code words include:
+
+        a.      Providing names for plans, projects and operations.
+
+        b.      Concealing intentions in documents, communications and
+        discussions relating to plans, projects and operations.
+
+        c.     The designation of geographical locations in conjunction with
+        Sub-paragraphs 0273a and b.
+
+All code words are to be taken from a list maintained by the Armed Forces
+Division, Ministry of Defence or the Services Headquarters. Their issue and
+cancellation are registered.
+
+0274. Nicknames.        Nicknames do not provide security cover and may be
+used for convenience in inter-communication, for references to UNCLASSIFIED
+and RESTRICTED matters, for target indication and for routine
+exercise/operations. When used in reference to geographical locations to indicate
+the whereabouts of troops during operations, they do not provide much security
+cover particularly in situation where our activity becomes identifiable to an
+enemy. They can be useful as references to places, e.g. it is easier to say AGNI
+BEENA than BRAHMANBARIA BAZAR. They are not to be used to indicate
+commanders or to identify units or formations. When selecting nicknames, the
+following points must be considered:
+
+        a.       Nicknames may be selected at random by the originator who is
+        also responsible for informing all concerned of their meaning.
+
+        b.      Neither of the two word may be a colour.
+
+        c.     The first word of a nickname is not to be either ‘OPERATION’
+        or ‘EXERCISE’.
+
+        d.     In no case may the second word be ‘ROUTE’, ‘ROOT’,
+        ‘ROUT’, or any similar sounding word.
+
+        e.      The words chosen should not be such that they can be run into
+        one another and so be confused with a code word, e.g. ‘MATCH BOX’
+        could become ‘MATCHBOX’.
+
+                                   2-27
+                                RESTRICTED
+                                  RESTRICTED
+
+        f.     The use of a word, say ‘IRON’, with numbers to give ‘IRON
+        ONE’, ‘IRON TWO’, etc., to indicate particular phases of an operation
+        may comprise a code word and is to be avoided.
+
+        g.     The use of a series of associated words in one operation is to be
+        avoided e.g. item of clothing.
+
+Units of Measurement
+
+0275. Methods of expressing measurements have been standardized and are to
+be used accordingly. The symbols used for units of measurement and other
+details are at Annex E to this section.
+
+Acknowledgement of Source of Quoted Material
+
+0276. Quotations.        Material quoted in service writing is acknowledged by
+annotating the text as outlined in Paragraph 0231 and the acknowledgement
+treated as a note except that the heading ‘Notes:’ is not used. The quotation will
+appear as ‘1. The Government Economic Plan from Current Affairs by M. Jalal’.
+
+0277. Bibliographies.        A bibliography is a list of material used for
+authorities consulted in the preparation of a paper. It should include the authors`
+names, titles of books or articles, the publishers, and the dates of publication. The
+list appears at the end of the paper under the main/group heading
+‘BIBLIOGRAPY’/‘Bibliography’.
+
+Amendments
+
+0278. When a paper or letter is revised or resubmitted with amendments,
+paragraphs that contain amendments or new subject matter are to be side-lined
+for ease of reference. It is particularly important to follow this practice when long
+and involved drafts are being amended. However, every document should
+have an amendment sheet to record such amendments or additions to its text.
+Proposals to effect any changes are listed under one amendment list followed by
+a figure and the date (see Amendment Record Sheet in this manual for layout).
+Whenever such changes are incorporated, the number of such change e.g.
+‘CHANGE 1’ is to be written at the bottom right corner of every page or part
+thereof so amended.
+
+                                     2-28
+                                  RESTRICTED
+                                  RESTRICTED
+
+Seniority of Services
+0279.   The seniority of the Services in Service writing is as follows:
+        a.       Army.
+        b.       Navy.
+        c.       Air Force.
+        d.       Inter Services Organizations.
+0280. In documents or correspondence where the addressees include those
+from the originator’s Service as well as those from one or more of the other two
+Services, the address block or distribution list is listed out in the following order
+of seniority:
+        a.       Headquarters, units and individuals of the originator’s Service.
+        b.      Headquarters, units and individuals of the other Services based
+        on the seniority as given in Paragraph 0279.
+        c.      Headquarters, units and individuals of the other inter Services
+        organizations in the sequence given at Annex F to this section.
+
+0281.   The seniority within the services is at Annex F to this section.
+
+Seniority of Para- Military and Auxiliary Forces
+
+0282. Para-Military and Auxiliary forces will be listed after all the Services
+headquarters/formations/units and the inter Services organisation as per
+following seniority:
+        a.       Border Guard Bangladesh.
+
+        b.       Bangladesh Coast Guard.
+
+        c.       Bangladesh Police (including Rapid Action Battalion).
+
+        d.       Bangladesh National Cadet Corps.
+
+        e.       Bangladesh Ansar and Village Defence Party.
+
+        f.       Bangladesh Fire Service and Civil Defence.
+
+                                        2-29
+                                  RESTRICTED
+                                  RESTRICTED
+
+Use of Ranks by Retired or Released Personnel
+0283. Retired or released service personnel may indicate their ranks with their
+names as shown below:
+        a.      Major Mohammad Fazle Ali, OSP, psc (retd).
+        b.      Air Commodore S Rahman, BUP, afwc, psc (retd).
+        c.      Lt Commander Mozakkir Hossain, (TAS), BN (retd).
+        d.      O NO 20070717 Md Mikail Hossain, PO (Wtr) (retd).
+        e.      Sergeant Shakir Hossain, SUP (retd).
+In all cases, the gallantry award should come before all other decorations and to
+be written just after the name. Example: Brigadier General Md Yousuf, BP, ndc,
+afwc, psc.
+Rules for Adding Figure in Text
+0284.   Following rules are applicable while adding figure in text:
+        a.       Figures are numbered consecutively throughout the paper
+        separated by a dash from the word ‘figure’ and followed by the name of
+        the figure separated by a colon as shown in e.g.
+
+        b.       Sources, if any, has to be inserted at the left lower border below
+        the figure/table, as shown in figure-1 along with year.
+
+                        Figure-1: Flowers of Bangladesh
+
+                  Source: Bangladesh Agricultural Board 2017
+
+                                     2-30
+                                  RESTRICTED
+                               RESTRICTED
+
+0285-0299.     Reserved.
+
+Annexes:
+
+A.   Standard Layout of Service Writing.
+B.   Rules for Typing.
+C.   Time Zone.
+D.   System of Relating Days and Hours to an Operation.
+E.   Units of Measurement.
+F.   Seniority of Armed Forces, Regiments, Corps and Units.
+
+                                  2-31
+                               RESTRICTED
+                                          RESTRICTED
+
+                                                                     ANNEX A TO
+                                                                     SECTION 2         2
+
+              STANDARD LAYOUT OF SERVICE WRITING
+
+                      SECURITY CLASSIFICATION (1) (2)
+                         PRIVACY MARKING (1) (2)
+                                                                                       2
+                                                 PRECEDENCE (1) (2)
+                                                                                       2
+                                                 Reproduction Copy No ...of...(2)
+                                                                                       2
+                                                 Copy Number..... of........(2)
+                                                 Total Pages.....................(2)
+                                                                                       2
+                                                 Address of Sender (1)
+                                                                                       2
+                                                 Telephone:........Extension: (2)
+                                                 Email:
+                                                                                       2
+Identifying Reference (1)                        Date ............. (1)
+Salutation (1) (2)                                                                     2
+
+                                     SUBJECT HEADING (1)                               2
+Reference (s) :
+                                                                                       2
+A.   .............................
+B.   .............................
+                                                                                       2
+1. This example illustrates the basic conventions of standard layout in
+skeleton, using notes in the superscription and subscription and words in
+the text. Not all the examples given need necessarily appear in every type
+of paper.
+                                                                                       2
+                                 1 of 4 (2)
+                         PRIVACY MARKING (1) (2)
+                      SECURITY CLASSIFICATON (1) (2)
+
+                                             2A-1
+                                          RESTRICTED
+                               RESTRICTED
+
+               SECURITY CLASSIFICATON (1) (2)
+                  PRIVACY MARKING (1) (2)
+                                                                          2
+                          MAIN HEADING                                    2
+2. The text may be divided by main, group and paragraph headings.
+The heading above this paragraph is a main heading. It is placed
+centrally as is the subject heading because the letter covers both main
+and group headings.
+                                                                          2
+Group Heading (3)
+                                                                          2
+3. Group headings introduce one or more paragraphs on the same
+subject; the heading immediately above this paragraph is an example.
+                                                                          2
+4. Paragraph Heading. A paragraph heading covers only its own
+paragraph and any sub-paragraphs in it. Any subdivision of a paragraph
+may have a heading.
+                                                                          2
+5.   Sub-paragraph.
+                                                                          2
+     a. This is an example of a sub-paragraph but further subdivision
+     is possible:
+                                                                          2
+          (1) By sub-sub-paragraphs, of which this is an example,
+          and by:
+
+                            2
+                  PRIVACY MARKING (1) (2)
+               SECURITY CLASSIFICATON (1) (2)
+
+                                  2A-2
+                               RESTRICTED
+                                         RESTRICTED
+
+               SECURITY CLASSIFICATON (1) (2)
+                  PRIVACY MARKING (1) (2)
+
+                             (a)     Sub-sub-sub-paragraphs of which                                    2
+                             there may be several. Still further subdivision
+                             could be achieved thus:
+
+                                          i.           ............................................     2
+
+                              (b)         .........................................................     2
+                 (2)         ......................................................................     2
+        b.      ...................................................................................     2
+                SUPPLEMENTARY DOCUMENTS
+                                                                                                        2
+6. A variety of documents might accompany this paper. An annex
+                                                                                                        2
+which accompanied it would be referred to in the text and would be
+listed below; an appendix to that annex would be referred to in the
+annex and listed at the close of it; an enclosure would be complete in
+itself, but its existence would be indicated at the close of the parent
+document.
+
+7. An example of the layout of an annex is at Annex A to this
+paper.                                                                                                  2
+
+                                                                                                        4
+Appropriate ending and                                                                                (mini-
+                                                                                                      mum)
+subscription (1)
+
+Annexes:
+A.   Layout of an Annex.
+B.   (Layout example only-not enclosed) (1) (2)                                                         2
+
+                                                                                                        2
+                            3
+                  PRIVACY MARKING (1) (2)
+               SECURITY CLASSIFICATON (1) (2)                                                           2
+
+                                            2A-3
+                                         RESTRICTED
+                                                    RESTRICTED
+
+                         SECURITY CLASSIFICATION (1) (2)
+                           PRIVACY MARKING (1) (2)
+                                                                                               2
+ Enclosures: (4)
+                                                                                               2
+ 1.           ...........................................   Copy Number ......... of.... (2)
+ 2.           ..........................................
+ 3.           ..........................................
+                                                                                               2
+ Distribution:                                              Copy Number      (2)
+                                                                                               2
+ External:         (5)
+                                                                                               2
+ Action:         (5)
+                                                                                               2
+ ........................................................
+                                                                                               2
+ Information:             (5)
+                                                                                               2
+ ........................................................
+                                                                                               2
+ Internal:         (5)
+                                                                                               2
+ Action:
+                                                                                               2
+ ........................................................
+                                                                                               2
+ Information:
+                                                                                               2
+ ........................................................
+                                                                                               2
+
+                                     4
+                          PRIVACY MARKING (1) (2)
+                       SECURITY CLASSIFICATION (1) (2)
+
+Notes: See page 2A-9.
+                                                       2A-4
+                                                    RESTRICTED
+                                RESTRICTED
+
+               SECURITY CLASSIFICATION (1) (2)                             2
+                  PRIVACY MARKING (1) (2)
+                                                                           2
+                                         Copy Number.........of......(2)
+                                                                           2
+                                        ANNEX A TO
+                                                  (8)                      2
+                                        DATED       .
+
+                    LAYOUT OF AN ANNEX (1)
+                                                                           2
+1. An annex is identified by a reference block which relates it to its
+parent paper. It is given its own subject heading and is thereafter laid   2
+out in the most appropriate form for the information it contains.
+
+2. The paragraphs are numbered and headings (if any) may be used
+in the normal way. The subject heading should be in the centre of the      2
+annex in capitals as per Paragraph 0226.
+
+3. When the parent paper presents a long or involved subject
+containing statistical or tabular information which relates to a           2
+particular annex only, such information may be presented as at
+Appendix 1 to this annex.
+
+                                                                           2
+
+                         A-1 of 2 (2)
+                  PRIVACY MARKING (1) (2)
+               SECURITY CLASSIFICATION (1) (2)
+
+                                   2A-5
+                                RESTRICTED
+                                RESTRICTED
+
+               SECURITY CLASSIFICATION (1) (2)
+                  PRIVACY MARKING (1) (2)
+                                                                         2
+ 4. An appendix is headed in a similar way to an annex and may be
+ given a lower security classification. Appendices are identified by a
+ number and given individual titles. They are listed below the text of
+ their parent annex.
+                                                                         2
+ Appendix :   (2)
+                                                                         2
+ 1.   Tabular Presentation.
+
+                          A-2 (2)
+                  PRIVACY MARKING (1) (2)
+               SECURITY CLASSIFICATION (1) (2)
+
+Notes: See page 2A-9.
+
+                                   2A-6
+                                RESTRICTED
+                                      RESTRICTED
+
+                    SECURITY CLASSIFICATION (1) (2)
+                       PRIVACY MARKING (1) (2)
+                                                                                2
+                                                 Copy Number.....of.......(2)
+                                                 APPENDIX 1 TO
+                                                 ANNEX A TO            (8)
+                                                                                2
+                                                 LETTER NUMBER
+                                                 DATED
+
+                         TABULAR PRESENTATION
+                                                                                2
+ Facts may be presented in tabular form. The following is an example:
+                                                                                2
+      Serial       (Column     (Column     (Column     (Column     (Column
+                   Title)(1)   Title)(1)   Title)(1)   Title)(1)    Title)(1)
+       (a)          (b) (9)     (c) (9)     (d) (9)     (e) (9)       (f) (9)
+                                                                                2
+ 1.          (9)
+                                                                                2
+ 2.          (9)
+                                                                                2
+ 3.        (9) (Lines may be drawn between columns and between
+                                                                                2
+ serials if desired)
+
+ 4.          (9)
+                                                                                2
+ 5.          (9)
+                                                                                2
+ Notes : (11)
+                                                                                2
+
+                                                                                2
+
+                              A1-1 of 1 (2)
+                        PRIVACY MARKING (1) (2)
+                     SECURITY CLASSIFICATION (1) (2)
+
+Notes:       See page 2A-9.
+                                         2A-7
+                                      RESTRICTED
+                              RESTRICTED
+
+                        Bangladesh in UNPKO
+
+    Table-1: Contribution of Bangladeshi Peacekeepers in UNPKO (11)
+
+  Serial   Bangladesh Bangladesh Bangladesh Bangladesh         Total
+             Army       Navy      Air Force   Police
+
+               (a)           (b)            (c)      (d)        (e)
+
+    1.         XX           XX              XX       XX         XX
+
+    2.         XX           XX              XX       XX         XX
+
+Source: Ministry of Foreign Affairs, 2022
+
+                                 2A-8
+                              RESTRICTED
+                                 RESTRICTED
+
+Notes:
+
+1.   These words are not included in the document.
+
+2.   When applicable.
+
+3. It is not obligatory to use group headings or headings to every individual
+paragraph or sub-paragraph (but see Paragraphs 0228 and 0229).
+
+4.   As necessary (see Paragraph 0253).
+
+5.   These headings are optional.
+
+6. The figures (2) outside the right-hand block indicate the vertical spacing
+between the end of one component and the beginning of the next. See also
+Paragraphs 9, 10, 11, and 12 of Annex B.
+
+7.   For indenting and horizontal spacing see Annex B.
+
+8. The identifying block of an annex or appendix is included in the first page
+only.
+
+9. By identifying each line of a table by a serial number and each column by a
+letter, precise reference can be made to any item without recourse to asterisks or
+other indictor marks.
+
+10. When it is necessary to use notes to amplify previous text or tabulated
+information, the heading ‘Notes:’ should be used and each note numbered
+serially in Arabic numerals and fully justified to the left margin.
+
+11. Tables will normally be titled.
+
+                                    2A-9
+                                 RESTRICTED
+                                 RESTRICTED
+
+                                                                  ANNEX B TO
+                                                                  SECTION 2
+
+                             RULES FOR TYPING
+
+                               INTRODUCTION
+
+1.        These rules are applicable in the preparation of type written work using
+typewriter or computer. Primary horizontal spacing is given, as specified,
+throughout this annex and at Annex A to Section 2. The linear distance through
+which a typewriter carriage moves for a depression of the space bar varies with
+different machines, but this variation, provided it is even and conforms to spacing
+rules, is acceptable.
+
+2.       Now a days computer is used for typing. However, use of typewriter may
+become essential in the event of war. Hence, it is important to learn these rules.
+There are differences in spacing and size of letter between computer and
+typewriter; the basic convention and rules enumerated in this section may remain
+same with as little adjustment as possible, and to the convenience of computer
+setting.
+
+                          SPACING OF TYPESCRIPT
+
+Horizontal Spacing
+
+3.      Margins.
+
+        a. The left margin of documents is to be three centimetres (15 spaces)
+        from the edge of the paper. Adjustments may be done for window
+        envelopes or files/bindings. The right margin is to be at least one
+        centimetre or five spaces wide.
+
+        b. For briefs, minutes of meetings and summaries of files an extra
+        wide right margin of three centimetres is provided for the reader to make
+        notes.
+
+        c. When the reverse of a sheet is used, the margins are to be
+        transposed so that both sides will be readable when the whole document
+        is bound.
+
+                                    2B-1
+                                 RESTRICTED
+                                  RESTRICTED
+
+        d. The left margin is the datum for horizontal spacing in Service
+        documents, except for those elements mentioned in Paragraphs 7b and 8.
+
+4.      Printed Margins. On paper overprinted with a vertical margin, the
+printings to be used as the left margin irrespective of the width of the margin.
+
+5.      Paragraphing. All lines in a main paragraph are justified to the left
+margin. If the paragraph is identified, this is to be by a number, with a full stop,
+followed by three spaces. If there is also a heading, this is followed by a full stop
+and then a further three spaces before any succeeding text. A lower case letter
+with a full stop identifies sub-paragraphs. Otherwise, they are treated as main
+paragraphs except that all lines are justified to a point five spaces from the left
+margin. Increased subdivisions may be achieved by using numbers in brackets
+and then lower case letters in brackets followed in each case by a further 3 spaces
+before commencing the text.
+
+6.      Indenting. Block indenting is to be used to indicate sub-divisions of
+paragraphs. Sub, sub-sub, etc., paragraphs follow the same general rules as for
+paragraphs, except that the sub-paragraph letter is typed 5 spaces from the
+margin. Succeeding sub-sub, etc., paragraphs commence 10, 15 and so on, spaces
+from the margin. Thus if the paragraph starts on the left margin at point one (1),
+the succeeding sub etc., paragraphs would start at point 6, 11, 16 and so on. See
+the example at Appendix 1 to this annex.
+
+7.      Block Presentation.
+
+        a. Justification to the Left Margin.          The following elements of a
+        letter or document are justified to the left margin:
+
+              (1) The identifying reference (unless indicated by a printed
+              letterhead).
+
+              (2) The subject heading (except in complex document where use
+              is made of both main and group headings, in which case the subject
+              heading is centred).
+
+              (3) The word ‘Reference’ where reference is made to other
+              documents and the identifying letter of each reference, e.g.:
+
+                                     2B-2
+                                  RESTRICTED
+                                      RESTRICTED
+
+                   References:
+
+                  A.    .................
+                  B.    .................
+
+             (4) The text of the letter or document (see Paragraphs 3 to 6 of
+             this annex).
+
+             (5) The heading ‘Annexes:’, if required, followed by the list of
+             individual indexes in sequence. Appendices and notes are treated
+             similarly, each heading and each item listed below the heading
+             being justified to the left margin.
+
+             (6) The heading ‘Enclosures:’, if required, followed by the list of
+             enclosures in sequence, each justified to the left margin.
+
+             (7) The heading ‘Distribution:’ followed by the list of addressees
+             in the correct order of Service precedence. Distribution lists should
+             be broken down into ‘External’ and ‘Internal’ listings when
+             appropriate, and these listings may be further subdivided into
+             ‘Action’ and ‘Information’ addressees if desired. Each heading and
+             each addressee is justified to the left margin.
+
+        b. Alignment with the Standard Tabulation Stop. Except where
+        otherwise indicated by a printed letterhead, elements of the
+        superscription and subscription of a document written on the right of a
+        page on separate lines should be vertically aligned. Thus the copy
+        number, precedence, originator’s address, telephone number, the first
+        typewritten element of the date and the signature block should all have a
+        common starting point which can be set by tabulator key.
+
+8.      Center Headings. Subject heading and main heading when centred are
+to be positioned in the center of the type written area and not of the whole page
+(see Paragraph 0225 for 2-line headings).
+
+9.     Spacing after Punctuation. One space is to be left after a comma, colon
+or semicolon, and two after a full stop, question or exclamation mark (but see
+Paragraph 5). However, while typing in a computer, only one space after all
+punctuations to be used.
+
+                                         2B-3
+                                      RESTRICTED
+                                  RESTRICTED
+
+Vertical Spacing
+
+10.      Vertical spacing of typescript is usually in single or double spacing.
+Double spacing is normally used for drafts (see Paragraph 14) and may be used
+in briefs if desired.
+
+11.     Vertical Spacing of the Text. Successive lines of text within paragraphs
+are to be separated by single spacing. Successive paragraphs without centre or
+group headings and all subdivisions of paragraphs are to be separated by double
+spacing. Main and group headings are to be separated from each other and from
+the preceding and succeeding lines of text by double spacing.
+
+12.      Vertical Spacing Outside the Text. Elements of a document which do
+not form a part of the text are to be separated by double spacing if standing alone,
+e.g. precedence and telephone number, and by single spacing if forming an item
+within a block, e.g. one address in a list of addresses. However, the following
+rules always apply:
+
+        a. Precedence. The precedence is double spaced below the security
+        classification or privacy marking as appropriate. The latter two are
+        double spaced as well.
+
+        b. Identifying Reference. The identifying reference is to be placed
+        opposite the date. See Paragraph 0223. 06.02.2626.121.55.003.22 is an
+        example of digitalized identifying reference system being followed by
+        the Government of Bangladesh. The identifying reference bears
+        following explanation:
+
+              06      – Ministry/division (AFD)
+              02      – Concerned organisation/department/directorate
+              2626    – Geographic code
+              121     – Section code
+              55      – Subject-wise classification
+              003     – Originating directorate/section
+              22      – Originating year
+
+        c. Salutation. If a salutation is used, 4 spaces should be left between
+        the identifying reference and (the subject heading if there is one) the first
+        line of the text.
+
+                                     2B-4
+                                  RESTRICTED
+                                   RESTRICTED
+
+         d. Signature. At least 4 spaces should be left between the end of the
+         text and the signature block (for the signature) in the subscription.
+
+         e.   Other Rules. All other rules are as for hand written work.
+
+Tables/Tabulation
+
+13.     In any form of table, vertical columns are to be lettered in small letters in
+brackets beginning with ‘(a)’, and horizontal items are to be numbered
+consecutively in Arabic numerals starting with ‘1’.
+
+Drafts
+
+14.      Horizontally a typewritten draft is to be spaced in the normal way
+throughout; but the vertical spacing between successive lines of text, including
+that immediately before and after the headings, is to be doubled. Normal vertical
+spacing is to be used outside the text i.e. before the subject heading and in and
+after the subscription block. The heading ‘DRAFT’ is to be inserted at the top
+centre of the first page, below the security classification or privacy marking when
+applicable. It will be in block capitals and not underlined like a subject heading.
+See page 3H-1.
+
+                            STANDARD CONVENTIONS
+Punctuation
+
+15.     With certain exceptions, normal punctuation is used in Service writing.
+The following additional conventions apply:
+         a.   Full Stops.    Full stops are used:
+              (1) After a paragraph or sub-paragraph number or letter which is
+              not in brackets.
+              (2)   After paragraph and sub-paragraph heading and so on.
+              (3) At the end of each sub-paragraph and further sub-divisions
+              except in case of unnumbered ones e.g. list of examples(s). (See
+              Paragraph 15(c) (6) that follows.)
+
+              (4) After the description of each reference or supplementary
+              document.
+
+                                      2B-5
+                                   RESTRICTED
+                                   RESTRICTED
+
+        b. Colon. A colon is used to introduce a list or a succession of sub-
+        paragraphs.
+        c.   Exceptions.
+             (1)     Full stops and commas are not used in an address.
+
+             (2) There is no comma after a salutation or a complimentary
+             ending.
+             (3) In the text, no full stops are placed after, or unnecessary
+             spaces left between, separate letters of familiar abbreviations.
+             (4)     No comma is to be used after a subscription.
+             (5) In a tabular display, full stops are normally omitted except
+             after serial numbers or to separate sentences or disparate notes
+             within a column.
+             (6) Full stops are not used at the end of unnumbered sub-
+             paragraph (s) or further subdivisions e.g. in case of list or example
+             (s) excepting (complete) sentences. See Paragraph 0241 b (2) for
+             example.
+
+Salutation and Subscriptions
+
+16.     Salutations follow common usage and begin with initial capitals.
+Subscriptions are in stylized form; examples are given at the annexes to
+Section 3.
+
+Inserting the Date
+
+17.      In documents having the originator’s address block at the top right corner
+of the first page, the date or date-time-group is placed under that address block
+opposite the identifying reference, the first typewritten element commencing at
+the standard tabulation stop. In other correspondence the date or date-time group
+is placed under the signature block.
+
+18.      The day of the month or the date-time-group as applicable are omitted
+for later insertion in manuscript by the signatory.
+
+                                      2B-6
+                                   RESTRICTED
+                                  RESTRICTED
+
+Underlining
+
+19.    All subject headings, main, group, paragraph and sub-paragraph
+headings are underlined.
+
+Page Numbering
+
+20.     The rules for page numbering are given in Section 2.
+
+Miscellaneous Points
+
+21.      Addressees. Officially recognized abbreviations for departments and
+establishment titles, e.g. WASA, PWD etc., are to be used except in
+correspondence with foreign armed forces.
+
+22.    Dates. Dates, including dates in the text, are normally abbreviated, e.g.
+19 Aug 22 except in formal, commanded and DO letters.
+
+23.     Catchwords. Catchwords are not to be used.
+
+24.     Name, Rank and Appointment of Writer. See Paragraph 0249.
+
+25.    Ampersand. The ampersand is to be used instead of ‘and’ in
+departmental and similar titles, e.g. DAA&QMG, Messrs Saleh & Co, etc.
+
+26.      Right-Hand Margin. For all briefs, minutes of meetings and summaries,
+a vertical line three centimetres from the right edge of the paper is drawn in. This
+margin commences with the first line of the first paragraph and ends in line with
+the last sentence on the first page. In subsequent pages, it commences with the
+first sentence and ends at the last line.
+
+27.    Annex and Appendix Blocks. These blocks are inserted in the right-hand
+margin and underlined.
+
+Appendix:
+
+1.      Example on Spacing the Horizontal Text.
+
+                                       2B-7
+                                  RESTRICTED
+                                                               RESTRICTED
+
+                                                                                                                       APPENDIX 1 TO
+                                                                                                                       ANNEX B TO
+                                                                                                                       SECTION 2
+                                    EXAMPLE ON SPACING THE HORIZONTAL TEXT
+Example (Not to Scale)
+                                   1        2         3        4        5        6        7       8       9       10        11         12
+                                   13       14        15       16       17       18
+     Left-hand margin .            .        .         .        .        .        .        .       .       .       .        .        .
+       .        .        .         .        .                                                                     (Each dot represents
+       1 inch or 3 cm)                                                                                            a space on the keyboard
+           1    .      T       h        e                                                                         while typing in computer)
+                1      2       .        T    h    e
+                               a        .    T    h        e
+                                             (    l        )   T    h   e
+                                                               (    a   )    T        h       e
+                                                                             i        .           T   h       e
+                                                                                                  a   a       .         T          h        e
+
+Example (To Scale)                                                                                                     (Each ‘x’ represents a
+Left-hand               1.xxxThe quick brown fox                                                                       space on the keyboard.
+margin of               12.xxxThe quick brown fox                                                                      Please note that the
+1 inch or 3 cm                   a.xxxThe quick brown fox                                                              text of any
+                                         (1)xxxxThe quick brown fox                                                    paragraph/sub-
+                                                       (a).xxxThe quick brown fox                                      paragraph starts after a
+                                                               i.xxxThe quick brown fox                                ‘Tab’ after the full
+                                                                        ii.xxxThe quick brown fox                      stop/bracket)
+                                                                                aa.xxxThe quick brown fox
+                         (2).xxxThe quick brown fox
+                  b.xxxThe quick brown fox .................
+
+                                                                 2B1-1
+                                                               RESTRICTED
+                                  RESTRICTED
+
+                                                                 ANNEX C TO
+                                                                 SECTION 2
+                                  TIME ZONE
+
+1.      The Earth is divided into 25 time zones, the centre of the system being
+the meridian of Greenwich; the centre division therefore lies between the
+meridian of 7.50 east (E) and that of 7.50 West (W), and is described as Zone Zero
+(0). The zones lying to eastward are numbered in sequence up to 12 with a
+negative (-) prefix, those lying to westward being similarly numbered with a
+positive (+) prefix.
+
+2.       Time in adjacent zones differs by one hour and each zone is indicated by
+a letter known as the zone time suffix. Greenwich Mean Time (GMT) is
+indicated by Z (Zone 0). The 12 zones to the east (therefore ahead of GMT) are
+lettered from A to M, the letter J being omitted. The 12 zones to the west of
+GMT are lettered N to Y.
+
+ Serial         Zone Boundary          To Obtain GMT from Time Zones
+                                       Time Zone, Add or           Suffix
+                                       Subtract the Following
+                                       Number of Hours
+  (a)                (b)                         (c)                 (d)
+            0
+   1.     7.5 W        to   7.50 E                 0                  Z
+   2.     7.50 E       to   22.50 E               -1                  A
+   3.     22.50E       to   37.50 E               -2                  B
+   4.     37.50 E      to   52.50 E               -3                  C
+   5.     52.50 E      to   67.50 E               -4                  D
+   6.     67.50 E      to   82.50 E               -5                  E
+   7.     82.50 E      to   97.50 E               -6                  F
+   8.     97.50 E      to   112.50E               -7                  G
+   9.     112.50 E     to   127.50E               -8                  H
+  10.     127.50 E     to   142.50E               -9                   I
+  11.     142.50 E     to   157.50E              -10                  K
+  12.     157.50 E     to   172.50E              -11                  L
+  13.     172.50 E     to   1800                 -12                  M
+                                                            (See Paragraph 3)
+  14.     7.50 W       to   22.50 W           -13/+1                  N
+                                                            (See Paragraph 5)
+  15.     22.50 W      to   37.50 W            +2                   O
+  16.     37.50W       to   52.50 W            +3                   P
+
+                                      2C-1
+                                  RESTRICTED
+                                   RESTRICTED
+
+  (a)                  (b)                        (c)                  (d)
+  17.        52.50W     to   67.50 W              +4                    Q
+  18.        67.50W     to   82.50 W              +5                    R
+  19.        82.50W     to   97.50 W              +6                    S
+  20.        97.50W     to   112.50W              +7                    T
+  21.       112.50W     to   127.50W              +8                    U
+  22.       127.50W     to   142.50 W             +9                    V
+  23.       142.50W     to   157.50 W             +10                  W
+  24.       157.50W     to   172.50 W             +11                   X
+  25.       172.50W     to   1800                 +12                   Y
+                                                                (See Paragraph 3)
+
+3.     The letters Y and M are used for +12 and -12 hours respectively
+depending on whether a position is to eastward or westward of the International
+Date Line i.e. 180 east or west.
+
+4.       The boundaries of time zones on land in countries where this system has
+been adopted agree generally with those at sea, which are defined by the
+meridians of 7.5, 22.5, etc., except when modified as necessary by the territorial
+limits of the countries concerned.
+
+5.       The letter N is used for -13 hours as well as +1 hour. Zone -13 is used for
+a position in Zone -12 using ‘summer’ i.e. (‘daylight saving’) time. There can be
+no confusion as the two zones are widely separated.
+
+6.      By this system the same time is therefore kept, whether on land or sea,
+throughout each zone (except during periods of summer time) and in different
+zones the time differs from one another by an integral number of hours, the
+minutes and seconds in all zones remaining the same.
+
+7.      GMT is kept in zone 0 (0). In zone -8 (H), the time kept is 8 hours in
+advance of GMT, while in zone +8 (U) it is 8 hours behind that of Greenwich. It
+will thus be seen that in order to obtain GMT in any zone, the number of hours
+given by the zone number + or – must be added of subtracted from the zone time.
+
+8.       On board vessels at sea, the date is changed at the 180th meridian. The
+date kept on islands, etc., in the vicinity of this meridian is indicated by a pecked
+line. On the other side of the Date Line, the day of the week and the day of the
+month differ by one day, the date on the western side being later than that the
+eastern.
+
+                                        2C-2
+                                   RESTRICTED
+                                                    RESTRICTED
+
+9.     World map of time zone is shown below:
+                                           Figure-2: World Map of Time Zone
+
+Source: Survey Bangladesh 2017
+
+                                                        2C-3
+                                                    RESTRICTED
+                                  RESTRICTED
+
+                                                                  ANNEX D TO
+                                                                  SECTION 2
+
+    SYSTEM OF RELATING DAYS AND HOURS TO AN OPERATION
+
+Definitions
+
+1.       By international agreement certain letters are used to indicate the day or
+hour from which an operation is timed. The rules for applying this principle are
+set out below:
+
+        a.      Days. The following letters have meanings related to specific
+        days:
+                (1) D Day. The day on which an operation begins or is due to
+                begin is known as ‘D Day’. This may be the beginning of
+                hostilities or any other operation, also see Paragraph 2.
+
+                (2) E Day. The day on which an exercise commences is called
+                ‘E Day’.
+
+                (3) M Day. The day on which mobilization begins or is due to
+                begin is known as ‘M Day’.
+
+                (4) G Day. The day and the hour on which the decision to
+                mount any given operation is promulgated is known as ‘G Day’
+                and ‘G Hours’ respectively. They are expressed as a 6 figure
+                date- time groups.
+                 (5) K Day. The day on which a convoy system is introduced
+                or due to be introduced on any particular convoy lane is known
+                as ‘K Day’.
+        b.       Hours and Minutes. The following letters have significance with
+        respect to hours and minutes:
+                 (1) H Hour. ‘H Hour’ is the specific time at which an operation
+                or exercise commences, or is due to commence. When used in
+                conjunction with planned operations it is the specific time at
+                which the main operation begins. Tactically speaking, it is
+                usually the time at which the leading troops cross the start line.
+
+                                      2D-1
+                                  RESTRICTED
+                                 RESTRICTED
+
+               (2) A Hour/B Hour. For multi-phased operation, timings for
+               the second and the subsequent phases are denoted by A Hour, B
+               Hour etc. However, certain letters used to indicate specific
+               activities as given in this annex are not to be included for this
+               purpose.
+
+               (3)   G Hour. See G Day.
+
+               (4) L Hour. In amphibious operations, the time at which the
+               first helicopter of the helicopter-borne assault wave touches
+               down in the landing zone is known as ‘L Hour’.
+
+               (5) N Hour. The time planned for the explosion of the first of a
+               series of tactical nuclear weapons as part of a specific ground
+               forces operation (or in the case of a single strike, the time
+               planned for that explosion) is termed ‘N Hour’.
+
+               (6) P Hour. The time of drop of the first sticks of the main
+               force in an air borne operation is known as ‘P Hour’.
+
+Numbering of Days
+
+2.      Day before and after a designated day are shown in accordance with the
+following system:
+
+       D-2, D-1, D, D + 1, D + 2
+
+Numbering of Hours and Minutes
+
+3.     Hours and minutes before and after a designated time are shown in
+accordance with the following system:
+
+       H – 1 hour, H – 30 minutes, H Hour, H +1 hour (1)
+
+       H + 20 min, H  3 hr (For operational writing)
+
+                                    2D-2
+                                 RESTRICTED
+                                  RESTRICTED
+
+Nicknames or Code Words
+
+4.     When a particular operation or exercise is identified by nickname, or
+code word, this is to be placed before any letter used in the context of this annex,
+e.g.:
+
+        BALD EAGLE - E DAY
+        ANVIL EXPRESS -H Hour
+
+Multiple Operations
+
+5.      When several operations or phases of an operation are being mounted in
+the same theatre, and confusion may arise through the use of the same day or
+hour designation for 2 or more of them, they may be referred to by any letter of
+the alphabet except those shown in Paragraph 1.
+
+Note:
+
+1.       The word ‘hours (s)’ and ‘minute (s)’ must always be mentioned. Again,
+alternatively ‘plus’ or ‘minus’ instead of ‘+’ or ‘-’ may be used.
+
+                                       2D-3
+                                  RESTRICTED
+                                  RESTRICTED
+
+                                                                 ANNEX E TO
+                                                                 SECTION 2
+
+                         UNITS OF MEASUREMENT
+
+1.      The abbreviations/symbols used for units of measurement should be
+those which are internationally agreed. Please note that abbreviations/symbols of
+measurements remain unaltered in the plural e.g. in (inch, inches). A selection of
+abbreviations/symbols most commonly used is tabulated below:
+
+  Quantity               Unit                 Abbreviation         Alternative/
+                                                                     symbol
+     (a)                  (b)                      (c)                 (d)
+ Length       inch                                  in                  "
+              foot                                  ft                  `
+              yard                                  yd                  x
+              mile                                 mile                M
+              fathom                               fath                fm
+              nautical mile                        nm                   -
+              (UK 6080ft)
+              millimetre                           mm                   -
+              centimetre                           cm                   -
+              decimetre                            dm                   -
+              *metre                               m                    -
+              Kilometre                            km                   -
+
+ Area         square inch                         sq in                in2
+              square foot                          sq ft               ft2
+              square yard                         sq yd                yd2
+              square mile                        sq mile              mile2
+              *square meter (similarly
+              for square centimetre,              sq m                 m2
+              etc.)
+ Volume       cubic inch                          cu in                 in3
+              cubic foot                           cft                  ft3
+              cubic yard                          cu yd                yd3
+              cubic Centimetre                     cc                  cm3
+              *cubic meter (similarly
+              for cubic decimetre, etc.)          cu m                 m3
+
+                                      2E-1
+                                  RESTRICTED
+                               RESTRICTED
+
+    (a)                  (b)                   (c)       (d)
+
+Capacity   pint                                 pt        -
+(Liquid)   quart                                qt        -
+           gallon                              gal        -
+           fluid ounce                        fl oz       -
+           *litre                                l        -
+           millilitre                          ml         -
+
+Angle      second                             sec        "
+           minute                             min        `
+           degree                             deg        o
+           *radian (plane angle)              rad        -
+           *steradian (solid angle)            sr        -
+
+Time       second                             sec         "
+           minute                             min         `
+           hour                                hr         -
+
+Speed      feet per second                    ft/sec      -
+           mile per hour                       mph        -
+           knot (nautical mile per hour)        kt        -
+           meter per second                   m/sec       -
+           kilometre per hour                 km/hr      kph
+           revolution per minute               rpm     rev/min
+           radian per second                 rad/sec      -
+           velocity                             vel       -
+
+Mass       ounce (avoirdupois)                 oz         -
+(weight)   pound                               lb         -
+           hundredweight                      cwt         -
+           long ton (2240 lb)                 ton         -
+           short ton                          ST          -
+           * gram                              g          -
+           Kilogram                            kg         -
+           tonne (metric ton = 1000 kg)         t         -
+           maund                              md          -
+           kiloton                            KT          -
+
+                                      2E-2
+                               RESTRICTED
+                                 RESTRICTED
+
+   (a)                    (b)                   (c)       (d)
+
+Density       gram per cubic                   g/cc      g/cm3
+              centimetre
+              pound per cubic foot             lb/cft    lb/ft3
+              ton per cubic meter             t/cu m      t/m3
+
+Force         poundal                           pdl        -
+              pound-force                       lbf        -
+              ounce-force                       ozf        -
+              ton-force                        tonf        -
+              Kilogram- force (similarly                   -
+              for gram force, etc.)            kgf         -
+                                                           -
+              dyne                             dyn         -
+              * newton                          N
+
+Moment        pound- force foot                lbf ft      -
+of            newton meter                      Nm         -
+Force         dyne centimetre                 dyn cm       -
+(Torque)      kilogram- force meter            kgf m       -
+
+Work/Ener foot-pound force                    ft lbf       -
+gy        joule                                  J         -
+          metre- kilogram force               m kgf        -
+          * watt                                W          -
+          * kilowatt hour                     kWh          -
+
+Power           horsepower                         hp      -
+                brake horsepower                  bhp      -
+                watt                               W       -
+                kilowatt                          kW       -
+                megawatt                          MW       -
+                                                   0
+Temperature     degree Kelvin                       K      -
+                                                   0
+                degree Celsius (centigrade)          C     -
+                                                   0
+                degree Fahrenheit                    F     -
+Heat            British Thermal Unit              Btu      -
+                calorie                           cal      -
+                kilocalorie                       kcal     -
+
+                                      2E-3
+                                 RESTRICTED
+                                 RESTRICTED
+
+      (a)                      (b)                     (c)             (d)
+
+ Pressure        atmosphere, standard                 atm               -
+                 millibar                             mb                -
+                 millimetre of mercury               mmHg
+                 (conventional)                                         -
+                 inch of mercury                      inHg
+                 (conventional)                                         -
+                 pound per square inch                 psi              -
+ Current         * ampere                              amp              -
+ Voltage         * Volt                                 V               -
+ Resistance/     * ohm                                  Ω               -
+ Impedance
+ Inductance      * henry                                H               -
+ Capacitance     * farad                                F               -
+ Acoustic        decibel                               dB               -
+ Level
+ X ray Dosage    rontgen                                R               -
+ Frequency       * hertz                               Hz               -
+                 cycle per second                      cps              -
+ Miscellaneous
+                 * becquerel                           Bq               -
+                 * gray                                Gy               -
+                 * sievert                              Sv              -
+                 coulomb                                C               -
+                 tesla                                  T               -
+                 weber                                  W               -
+                 Siemens                                S               -
+
+2.      Abbreviations/symbols remain unaltered in the plural, e.g. ‘10 pounds’ is
+written as ‘10 lb’ and not ‘10 lbs’ (see also Paragraph 1).
+
+                                      2E-4
+                                 RESTRICTED
+                             RESTRICTED
+
+3.      Prefixes Denoting Decimal Multiples or Fractions. The prefixes
+denoting decimal multiples or fractions of quantities, together with the
+abbreviations/symbols used, are as follows:
+
+   Multiple/or Fraction         Prefix              Abbreviation
+           (a)                   (b)                    (c)
+         x 10 18                 exa                     E
+
+         x 10 15                 peta                     P
+
+         x 10 12                 tera                    T
+
+          x 10 9                 giga                    G
+
+          x 10 6                mega                     M
+
+          x 10 3                 kilo                     k
+
+          x 10 2                hecto                     h
+
+          x 10                   deca                    da
+
+         x 10 -1                 deci                     d
+
+         x 10 -2                 centi                    c
+
+         x 10 -3                 milli                   m
+
+         x 10 -6                micro                     u
+
+         x 10 -9                 nano                     n
+
+         x 10 -12                pico                     p
+
+         x 10 -15               femto                     f
+
+         x 10 -18                atto                     a
+
+                                 2E-5
+                             RESTRICTED
+                                  RESTRICTED
+
+The prefixes for multiples may be used with any of the units marked * in
+Paragraph 1. Combinations of more than one prefix are not permitted. There
+should be no space between the prefix and the name of the unit which it qualifies;
+no hyphen should be used e.g. kilogram. Similarly, there should be no space or
+hyphen between the abbreviations for the prefix and the unit or between symbols,
+e.g. cm (centimetre), kl (kilolitre).
+
+Methods of Expression of Units
+
+4.      In correspondence addressed to, or documents intended for use by
+foreign forces and agencies, measurements and where necessary tolerances, are
+to be expressed in the units customarily used in the country of origin, followed in
+brackets by the equivalent, of our own, e.g.:
+
+        60.32 mm + 1.59                          (2.3/8 + 1/16 in)
+
+                  - 1.58
+
+        84. 32 mm + 1.52                         (93.32 + 0.06 in)
+
+5.       Equivalent measurements need not be quoted where there is a recognized
+standard unit of measurement or where reference is made to conversion scales in
+the text of a letter or document.
+
+6.       Units of measurement are to be written in full the first time they appear
+in the letter or document in the language of the originating country. After that
+these may be expressed in abbreviated forms or as symbols, e.g. a letter
+originated in the UK would use ‘imperial gallon (imp gal)’ whereas as letter
+originated in the USA would be use ‘US gallon (US gal)’.
+
+                                       2E-6
+                                  RESTRICTED
+                                   RESTRICTED
+
+                                                                  ANNEX F TO
+                                                                  SECTION 2
+
+     SENIORITY OF ARMED FORCES, REGIMENTS, CORPS AND UNITS
+Seniority of Joint Services Organizations
+1.      Armed Forces Division.
+
+Army
+
+2.      The order of seniority of regiments and corps is as follows:
+
+        a.   Armoured Corps.
+        b.   Regiment of Artillery.
+        c.   Corps of Engineers.
+        d.   Corps of Signals.
+        e.   East Bengal Regiment (EB).
+        f.   Bangladesh Infantry Regiment (BIR).
+        g.   Corps of Army Aviation.
+        h.   Army Service Corps.
+        j.   Army Medical Corps.
+        k.   Army Ordnance Corps.
+        l.   Corps of Electrical and Mechanical Engineers.
+        m.   Remount, Veterinary and Farms Corps.
+        n.   Army Dental Corps.
+        p.   Corps of Military Police.
+        q.   Army Education Corps.
+        r.   Judge Advocate General Corps.
+        s.   Army Corps of Clerks.
+        t.   Postal (If raised or in exercise).
+        u.   Armed Forces Nursing Service.
+
+                                       2F-1
+                                   RESTRICTED
+                                   RESTRICTED
+
+3.       The order of seniority of other divisions, branches, headquarters, units
+and establishments of the Army will be in accordance to the distribution lists
+issued by Army Headquarters. These lists are amended from time-to-time as new
+establishments, divisions, branches, headquarters and units are formed.
+
+Navy
+
+4.      In Service writing the order of seniority is as follows:
+
+        a.   Operational and administrative headquarters.
+        b.   Operational units.
+        c.   Support bases.
+        d.   Training units.
+        e.   Reserve divisions.
+
+Air Force
+
+5.      In Service writing the order of seniority is as follows:
+
+        a.   Air Headquarters.
+        b.   Bases in alphabetical order.
+        c.   Air Headquarters (Unit).
+        d.   Flying squadrons in numerical order.
+        e.   Air Defence Operation Centre.
+        f.   Air defence units in numerical order.
+        g.   Field units, Provost and Security units and Maintenance units in
+        numerical order.
+        h.   Supporting units in alphabetical order.
+        j.   Training units in alphabetical order.
+        k.   Care and maintenance units in alphabetical order.
+        l.   Reserve units in numerical order.
+
+                                        2F-2
+                                   RESTRICTED
+                                   RESTRICTED
+
+Seniority of Inter Services Organizations
+
+6.      In Service writing the order of seniority is as follows:
+
+        a.    Directorate General of Medical Service.
+        b.    Directorate General of Forces Intelligence.
+        c.    Directorate General of Defence Purchase.
+        d.    Bangladesh Armed Services Board.
+        e.    Inter Services Selection Board.
+        f.    Armed Forces Medical Store Depot.
+        g.    Inter Service Public Relations.
+
+Seniority of Inter Services Training Institutions
+
+7.      In Service writing the order of seniority is as follows:
+
+        a.    National Defence College.
+        b.    Defence Services Command and Staff College.
+        c.    Military Institution of Science and Technology.
+        d.    Armed Forces Medical College.
+        e.    Armed Forces Institute of Pathology.
+        f.    Bangladesh Institute of Peace Support Operation Training.
+        g.    Armed Forces Medical Institute.
+        h.    Defence Academies:
+              (1)     Bangladesh Military Academy.
+              (2)     Bangladesh Naval Academy.
+              (3)     Bangladesh Air Force Academy.
+
+                                       2F-3
+                                   RESTRICTED
+                                      RESTRICTED
+
+                      CHAPTER-II: CORRESPONDENCE

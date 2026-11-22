@@ -1,0 +1,108 @@
+                                     SECTION 8
+
+                          GRAPHICAL PRESENTATION
+Introduction
+
+0801. Staff officers must develop the ability to present information in a simple
+form that is easily absorbed and understood. Pictorial presentation in the form of
+graphs or diagrams is a recognized method of doing this and one with which they
+must be familiar. This section explains the general principles of graphic
+presentation and describes the characteristics of the types of graphs and charts in
+common use.
+
+0802. Graphs and charts should fulfill a useful purpose and not merely serve as
+embellishment. They may:
+
+         a. Present statistical data in a form that shows their precise
+         significance and relationship so that they can be absorbed at a glance.
+
+         b.    Simplify and classify a mass of numerical information.
+
+         c.    Illustrate past events, or forecast future trends from past statistics.
+
+         d. Assist in planning a complicated programme of interrelated events
+         and in presenting the completed programme.
+
+Graphs
+
+0803. A graph shows by means of a line relating to vertical and horizontal axes
+how one value varies with another. The conventions for plotting a graph are:
+
+         a. The horizontal (X) axis is usually used for the variable whose
+         values are selected or predetermined, and the vertical (Y) axis is used for
+         the variable with the corresponding observed or calculated values.
+
+         b. Each axis shows the qualities represented and the units used. If
+         there is more than one scale on an axis, there must be no possibility of
+         confusion.
+
+                                          8-1
+                                     RESTRICTED
+                                    RESTRICTED
+
+         c. The scale should be as large as may be convenient for the space
+         available, but chosen in a manner that:
+
+               (1) Allows easy and accurate interpretation of the facts. (The true
+               implications of the graph can be badly obscured by expanding or
+               contracting one scale relative to the other, and in extreme cases the
+               resulting picture can be totally misleading.)
+
+               (2)   Facilitates plotting and presentation.
+
+Presentation
+
+0804. Rules for plotting graphs have been given in Paragraph 0803. The
+following points should also be considered when preparing any graphical
+illustration:
+         a. Simplicity.     A graph or chart should be as nearly self-explanatory
+         as possible; the guiding principles are simplicity and avoidance of
+         overcrowding. Explanatory notes should be brief and clear. If the amount
+         of detail compressed into one diagram makes it too complicated, 2 or
+         more diagrams should be used.
+         b. Display. A diagram should be constructed so as to present
+         information vividly without forfeiting simplicity and few in number; the
+         normal limit is 5. When a diagram is to be reproduced, use only those
+         materials capable of reproduction. Colours may have to be replaced by
+         varied shading and extra notes may be required.
+         c.    Layout.    A graphic illustration should:
+               (1)   Be given an appropriate subject heading.
+               (2) Give the source (s) of the original data in the bottom left-hand
+               corner.
+               (3)   Give the basis of any calculations.
+               (4)   Give a legend or key if necessary.
+
+0805-0899. Reserved.
+Annex:
+A.       Example of Graph in a Document.
+
+                                          8-2
+                                    RESTRICTED
+                         RESTRICTED
+
+                                                        ANNEX A TO
+                                                        SECTION 8
+
+         EXAMPLE OF GRAPH IN A DOCUMENT
+
+       Figure 1: Statistics of Course Participants in DSCSC
+140
+
+120
+
+100
+
+80                                                      Army
+                                                        Navy
+60                                                      Air Force
+40
+20
+
+ 0
+
+ Source: Armed Forces Division
+
+                             8A-1
+                         RESTRICTED
+                                   RESTRICTED
+

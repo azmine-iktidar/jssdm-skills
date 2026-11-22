@@ -1,0 +1,1867 @@
+                                     SECTION 17
+
+                                    ARMY SYMBOLS
+
+General
+
+1701. Definition.      Army symbol is a graphic sign used usually on a map,
+display or diagram to represent a particular Army unit, installation, activity of
+other ‘elements’ of Army interest. It comprises of alphanumeric characters,
+completed as necessary by letters, figures, abbreviations, words or colours.
+
+1702.     Use.     Army symbols are used in:
+          a.     All types of battle maps including overprints.
+          b.     Field sketches and overlays.
+          c.     Air photographs.
+          d.     Organizational charts.
+
+1703. Unauthorized Symbols. In exceptional cases where no symbol exist or a
+combination of symbols would not be clear, a special sign may be devised but it
+must be explained in a legend.
+
+Colour Presentation
+
+1704. Ideally, different colours will be used to differentiate between enemy and
+friendly symbols. However, it is necessary to provide for both one colour and
+multi-colour representation of symbols. Following colours are used in multi
+colour representation to represent:
+          a. Blue. Friendly units, posts and installations, equipments, activities
+          and ground environment symbols, not covered by the colours listed
+          below.
+          b. Red.     Enemy units, posts and installation, equipments, activities
+          and ground environment symbols, not covered by the colours listed
+          below.
+          c. Green. Friendly and/or enemy man made obstacles, eg minefields,
+          ditches, road blocks etc. Friendly Para Military Forces such as Border
+          Guard Bangladesh/Bangladesh Coast Guard will also be depicted in
+          green.
+                                          17-1
+                                     RESTRICTED
+
+                                    RESTRICTED
+
+        d. Yellow.        Friendly and/or enemy NBC event and contaminated
+        areas.
+
+        e.    Miscellaneous.      All alphanumeric characters or words used in
+        connection with the above representations should be in their respective
+        colours and block capitals, e.g. the nickname of a bridge on reserved
+        demolition should be written in green colour in block capitals next to the
+        symbol of the bridge which is also in green. Similarly, all alphanumerical
+        characters of friendly forces will be in blue. All other markings such as
+        grid intersections, superscription etc should be in black. Any deviation or
+        other colour if used, should be explained in a legend.
+
+Basic Rules
+
+1705.   Army symbols can be used to indicate:
+
+        a.    Forces.     These include:
+
+              (1) Type, e.g. Service/arm/unit, HQ, installation, observation post
+              or landing site.
+
+              (2)   Size, e.g. division, section, etc.
+
+              (3)   Areas, e.g. location, boundaries, objectives, etc.
+
+              (4)   Movements, e.g. advance or reconnaissance, etc.
+
+        b. Weapons and Equipment. Any weapon with its quantity and
+        caliber. Any equipment with quantity.
+
+        c.    Miscellaneous Information.        All writings will be in capitals.
+
+
+
+
+                                         17-2
+                                    RESTRICTED
+
+                                  RESTRICTED
+
+1706. Type. The types of basic symbols are represented by:
+
+        a.     A unit :
+
+        b.     A Headquarters (HQ):
+
+        c.     An observation post:
+                                                                     Own Artillery
+
+        d.     An administrative or logistic installation:
+
+        e.     An electronic installation:
+
+        f.     A landing site:
+
+1707. Basic Unit and Logistical Installation Role Indicators. The symbols for
+basic unit and logistical installation roles are given at Annex A to this section.
+The appropriate symbol is placed inside the signs shown at Paragraph 1706.
+
+1708. Size. The size indicators are shown at Annex B to this section. The size
+graph indicator is placed on top of the basic symbol. For an observation post or
+installation, the size indicates for whom the same has been established. The
+abbreviated nomenclature of the unit/formation usually appears on the right and
+if the symbol indicates a sub-unit or a sub-sub-unit then the sub-unit or the sub-
+sub-unit identification is shown on the left.
+
+1709. Areas.       When it is not appropriate to lay down boundaries between
+areas but it is required to show areas for them, a line is drawn to enclose the
+areas:
+
+        a. If the area is occupied or put in a state of defence, the unit symbol
+        is omitted and the size symbol is put on the line of the ‘goose egg’, eg:
+
+                                 Represents an area occupied by a company
+
+
+        b.     If the area contains a unit, not in state of defence, the unit
+        symbol is enclosed in the ‘goose egg’, e.g.
+
+                     Represents a battalion in an area not in a state of defence
+
+
+                                       17-3
+                                  RESTRICTED
+
+                                  RESTRICTED
+
+        c.      When a group of units is allotted an area, it is often convenient to
+        displace the unit symbols to the margin, eg:
+
+
+
+
+1710. Movements. To indicate movement on a given route, a single arrow is
+used, eg:
+                                                                    F
+                     ASSY A                                         U
+                                                                    P
+
+
+1711. Weapons and Equipment.         Symbols for weapons and equipment are
+shown in Annexes C, D and E to this section.
+
+1712.   Miscellaneous Symbols. Annex F to this Section.
+
+Other Instructions
+
+1713. One Colour Representation. When only one colour is used, forces and
+activities will be drawn with double line. Where double lines cannot be used,
+such as on equipment symbols, the letters ‘EN’ will accompany.
+
+1714. Solid or Broken Lines. A solid line is used to indicate actual locations,
+objectives and boundaries. Broken lines are used to indicate any future or
+projected location:
+
+
+
+            Future location of an own             Enemy unit HQ anticipated
+            infantry battalion                    location
+
+1715. Time. The time of any happening such as the opening of a headquarters
+or installation, the arrival of a unit in a new location, notice to move (NTM) time,
+the information seen or valid at, etc., may be written under the symbol. A date-
+time group is used.
+
+
+
+
+                                        17-4
+                                  RESTRICTED
+
+                                  RESTRICTED
+
+1716. Question Marks. A question mark used in conjunction with a symbol
+indicates that some doubt exists about the information. The question mark is
+placed in the position related to the symbols in which the doubt exists, e.g.
+
+                    represents an enemy infantry battalion whose identity is
+              ?     not known
+         ?
+                    represents an enemy signal unit whose size in not known
+
+
+1717. Destruction.      An equipment, weapon, installation, etc. is marked X if
+destroyed, eg:
+
+                    represents a destroyed enemy field artillery gun by own
+                    action. Following sign to be inserted here.
+
+1718.   Phony (Dummy). The sign is placed with the symbol, e.g.
+
+
+                    represents an own dummy strong point.
+
+
+1719. Location. For indicating the location of symbolized units or installations,
+the following is applicable:
+
+        a.   At the point of the shaft or staff for headquarters, e.g.
+
+
+
+        b.   At the centre of the bottom for:
+
+
+
+        c. At the end of a ‘location vector’ which starts from one of the above
+        location points, when it is necessary to offset the symbol from its current
+        position:
+
+
+
+
+                                       17-5
+                                  RESTRICTED
+
+                                    RESTRICTED
+
+        d. If several Headquarters are at one location, a number of flags can
+        be placed on a single staff/shaft, e.g.
+                                       XX
+
+
+
+                                        X
+
+
+
+
+        e.    Where a group of units, installations or activities (other than HQ)
+        are at one location, it is often convenient to indicate this with a bracket,
+        e.g.
+
+
+
+
+1720. Headquarters Representation. Unit Headquarters and Command Posts
+may be specified by writing abbreviated characters such as ALTN, MAIN, MOB,
+RES, STEP UP, TAC, etc., on the left of the symbol. Thus, Step Up HQ
+established at Point C at 2000 hrs 13 November by 9 Brigade is:
+                                       X
+                         STEP UP              9
+
+                                    132000F NOV
+                                C
+1721. Special Size Indicator or Combat Grouping. To show a non-organic
+combat command or group, the symbol is drawn over the size indicator and the
+number of armoured and infantry sub-unit forming it is shown by writing their
+number in brackets to the right of the symbol title putting armour before infantry.
+Thus 7 Horse Regimental Group comprising three squadrons and one company
+will be represented as:
+
+
+                                              7H (3,1)
+
+1722. Reinforced or Detached. When a unit is reinforced or if part of it is
+detached, it is shown thus:
+
+                        14 EB (+)     Own 14 East Bengal reinforced
+
+                                       17-6
+                                    RESTRICTED
+
+                                  RESTRICTED
+
+
+                        5 CAV (-)    Enemy 5 Cavalry with part detached
+
+
+1723.   Aerodromes.     The apex denotes the exact location e.g.:
+
+        a.       Airfield:
+
+
+        b.       Landing strip:
+
+
+Basic Rules for Drawing Symbols
+
+1724.   Information Fields.
+
+
+
+
+                                      17-7
+                                  RESTRICTED
+
+                                   RESTRICTED
+
+Example:
+
+                          9            ll           ?
+                  11 Bde                             9 EB (+) (3,1)
+                  STEP UP                            Div Sp
+
+
+
+                                 132000F NOV
+Notes:
+
+(1)      Which of these Field Titles will appear in this Field depends upon which
+role indicator is shown.
+(2)       The letters ‘I’ and ‘O’ have been excluded to avoid confusion.
+(3)       See Paragraphs 1705 through 1722.
+1725.     Contents of Information Fields.
+
+ Serial Field        Title and      Applicable                  Remarks
+        Letter      Description          to
+  (a)    (b)            (c)             (d)                           (e)
+ Mandatory Information Fields
+   1.     A     Basic symbol and        All
+                Role Indicator for
+                Units, Posts and
+                Installations   or
+                Equipment
+                Symbol
+   2.     B     Size Indicator     Units,               a. Mandatory for units.
+                                   Installation
+                                   Posts                b. For installation and
+                                                        posts, the Size Indicator
+                                                        will be of the organic
+                                                        formation or of the
+                                                        formation for whom
+                                                        provided.
+                                                        c. May be used with
+                                                        equipment.
+
+                                        17-8
+                                   RESTRICTED
+
+                             RESTRICTED
+
+(a)   (b)          (c)                 (d)               (e)
+
+3.    C     Unique               All         a. Many         include
+            Designation                      National Distinguishing
+            Followed by                      Letters.
+            Higher
+            Formations, if                   b. Must follow the
+            any                              sequence of sizes given at
+                                             Annex B to this section.
+                                             In case of a formation if it
+                                             is not known, symbols ‘?’
+                                             and if it is not to be
+                                             shown, symbols ‘ ’ are
+                                             to be indicated.
+
+                                             c. The             Unique
+                                             Designation must always
+                                             match the Size Indicator.
+                                             If a Size Indicator is not
+                                             shown,     the     Unique
+                                             Designation must include
+                                             the size.
+
+
+4.    D     Highest         All              a.        It becomes the
+            Formation to be                  Unique         Designation
+            shown/ Unique                    matching with the Size
+            Designation                      Indicator if it is the only
+                                             one to be shown, i.e.
+                                             when Field
+
+                                             C is blank. If a Size
+                                             Indicator is not shown,
+                                             the Unique Designator
+                                             must include the size.
+
+                                             b. May include national
+                                             Distinguishing letters.
+
+
+
+                                17-9
+                             RESTRICTED
+
+                                RESTRICTED
+
+ (a)     (b)            (c)                   (d)               (e)
+
+Optional Information Fields
+
+ 5.       E     Special Size           Units        Must be displayed when
+                Indicator (See                      applicable.
+                Paragraph 1721)
+
+ 6.       F     Reinforced or          Units        This field is always
+                Detached Shown                      shown in brackets.
+                as (+) or (-). (See
+                Paragraph 1722)
+ 7.       G     Combat                 Units        a. This Field is always
+                Grouping                            shown in brackets.
+                (See Paragraph                      b. Only one of the
+                1721)                               Fields F or G can be
+                                                    shown at one time.
+                                                    c. Field G may be
+                                                    shown in conjunction
+                                                    with field E.
+
+ 8.       H     Name or type of        All          a.     Examples: DIV
+                Unit                                SP, DIV RES, ADS,
+                                                    COVERING               TPS/
+                                                    FORCE, SP, ECP etc.
+                                                    b.     This Field is not
+                                                    to be shown in brackets
+                                                    only when it is by it self.
+ 9.       J     Additional             All          A space beside the
+                Information (For                    symbol can be used for
+                notes by the                        making     notes    that
+                users)                              clarifies the    symbol
+                                                    further.
+ 10.      K     Quantity of            Equipment    Shows     how       many
+                Equipment                           equipments are present
+ 11.      L     Type of                Units        Shows class, calibre or
+                Equipment              Equipment    type of equipment; no
+                                                    brackets only when by
+                                                    itself.
+
+                                      17-10
+                                RESTRICTED
+
+                                   RESTRICTED
+
+  (a)        (b)            (c)             (d)                  (e)
+  12.        M       HQ                 Units        Specifies level of HQ, eg.
+                     Representation                  TAC, STEP UP, MAIN,
+                     (See Paragraph                  ALTN, REAR, BAA,
+                     15)                             DAA etc.
+
+  13.        N       Mobility           Units        A pictorial representation
+                     Indicator          Equipment    of mobility as shown at
+                                                     Page 17D-2.
+
+  14.        P       Date-Time Group    All          a.       This      symbol
+                     (See Paragraph                  element     contains all
+                     15)                             information relating to
+                                                     time.
+                                                     b.       May           be
+                                                     supplemented by 'AT',
+                                                     'FORM' etc., to show to
+                                                     what extent the time
+                                                     applies.
+
+  15.        Q       Direction of   All              a.       Indicates     the
+                     Movement Arrow                  general direction, not the
+                                                     precise route.
+                                                     b.       Always
+                                                     positioned at the location
+                                                     point of the symbol.
+
+  16.        R       Unconfirmed        All          when all the information
+                     Query Mark                      is doubtful.
+
+
+Examples
+
+1726. Examples.           Examples of various Army symbols are given at Annex
+G to this section.
+
+1727. Rules for Making of map, overlay and sketch are given at Annex H to
+this section.
+
+1728-1799.         Reserved.
+
+                                       17-11
+                                   RESTRICTED
+
+                                RESTRICTED
+
+Annexes:
+
+A.    Basic unit and Logistical Role Indicators.
+B.    Size Indicators.
+C.    Weapon Symbols.
+D.    Transport Symbols and Mobility Indicators.
+E.    Electronic Installation Indicators and Activities.
+F.    Terrain and Tactical Activities.
+G.    Examples.
+H.    Rules for Making of Map, Overlay and Sketch.
+
+
+
+
+                                     17-12
+                                RESTRICTED
+
+                             RESTRICTED
+
+                                                               ANNEX A TO
+                                                               SECTION 17
+
+             BASIC UNIT AND LOGISTICAL ROLE INDICATORS
+
+ Serial    Service/unit     Symbol   Serial    Service/unit       Symbol
+  (a)              (b)        (c)       (a)          (b)            (c)
+
+Service/Unit
+
+
+ 1.       Bangladesh Army            11.      Naval Aviation
+
+                                              Supply and
+ 2.       Bangladesh Navy            12.
+                                              Transport
+
+          Bangladesh Air
+ 3.                                  13.      Medical
+          Force
+
+ 4.       Armour                     14.      Ordnance
+
+                                              Electrical and
+ 5.       Artillery                  15.      Mechanical
+                                              Engineers
+                                              Remount
+ 6.       SP Regt                    16.      Veterinary and
+                                              Form Corps
+                                              Military Policy
+ 7.       Engineers                  17.
+                                              (Provost)             MP
+
+ 8.       Signals                    18.      Dental                 D
+ 9.       Infantry                   19.      Police               POLICE
+
+ 10.      Army Aviation              20.      Cyber                CYBER
+
+
+
+
+                                17A-1
+                             RESTRICTED
+
+                                    RESTRICTED
+
+Serial                  Service/unit                  Symbol
+  (a)                       (b)                         (c)
+Functions
+
+
+  1.        Airborne/Air-transportable
+
+
+  2.        Airmobile
+
+
+  3.        Amphibious
+
+
+  4.        Anti-air/ Air Defence
+
+
+  5.        Anti-tank
+
+
+  6.        Armoured Reconnaissance
+
+
+  7.        Mechanized/APC Borne/ Armoured Infantry
+
+
+  8.        Mountain
+
+
+  9.        Parachute (in role)
+
+ 10.        Postal                                     POSTAL
+
+
+ 11.        Reconnaissance
+
+
+ 12.        Para Commando
+
+
+                                         17A-2
+                                    RESTRICTED
+
+                                   RESTRICTED
+
+Serial                Logistical/Role              Symbol
+     (a)                    (b)                      (c)
+
+Basic Logistic Role Indicators
+
+1.         All types ammunition
+
+
+2.         Air Force ammunition
+
+
+3.         Army Aviation ammunition
+
+
+4.         Artillery ammunition
+
+
+5.         All natures ammunition less artillery
+
+6.         Rations
+
+
+7.
+           Aviation fuel
+
+8.
+           Non-aviation fuel
+
+9.         Aviation fuel, Air Force supply
+
+
+10.        Aviation fuel, Army supply
+
+
+11.        Water                                        W
+
+
+
+
+                                        17A-3
+                                   RESTRICTED
+
+                      RESTRICTED
+
+                                                          ANNEX B TO
+                                                          SECTION 17
+                    SIZE INDICATORS
+
+Serial     Symbol                   Unit (or its equivalent)
+     (a)     (b)                               (c)
+
+1.                  Section (smallest unit; US Squad)
+
+
+                    Unit larger than a section but smaller than a
+2.
+                    platoon equivalent
+
+
+                    Platoon/Troop equivalent
+3.
+             l
+4.                  Company/Battery/Squadron equivalent
+
+             ll
+5.                  Battalion equivalent
+
+             X
+6.                  Brigade equivalent
+
+            XX
+                    Division
+7.
+
+            XXX
+8.                  Corps
+
+           XXXX
+9.                  Army
+
+
+           XXXXX
+                    Army Group
+10.
+
+
+                            17B-1
+                      RESTRICTED
+
+                             RESTRICTED
+
+Symbols Associated with Size Indicators
+
+     (a)        (b)                             (c)
+
+                ll         Non-organic unit or temporary grouping, eg.
+1.                         Battle Group over the size indicator of a
+                           battalion
+
+
+2.                         Unknown
+
+
+
+
+                                17B-2
+                             RESTRICTED
+
+                         RESTRICTED
+
+                                                    ANNEX C TO
+                                                    SECTION 17
+
+                    WEAPON SYMBOLS
+
+Serial   Symbol               Meaning               Remarks
+ (a)       (b)                  (c)                   (d)
+
+
+
+1.                Infantry weapon; LMG
+
+
+
+
+2.                Gun or Howitzer
+
+
+                  Medium caliber
+3.
+                                                Drawn across the
+                                                symbol
+4.                Heavy caliber
+
+                  High trajectory weapon, eg.
+5.
+                  mortar or howitzer
+                                                Placed at foot of
+                                                shaft of symbol
+6.                Anti-tank
+
+
+                                                Surrounds the
+7.                Anti-aircraft
+                                                weapon symbol
+
+
+                                                Placed at head of
+8.                Rocket projector
+                                                shaft of symbol
+
+                                                Location at
+9.                Missile                       bottom of middle
+                                                shaft
+
+
+
+                              17C-1
+                         RESTRICTED
+
+                                 RESTRICTED
+
+ (a)                                  (b)                         (c)
+
+
+                                                            Location at
+10.                       Anti-tank Missile
+                                                            centre of symbol
+
+
+                                                            Location at
+                          Surface to Surface Missile
+11.                                                         bottom of
+                          launching site
+                                                            slanting shaft
+
+
+                                                            Location at
+                          Surface to Air Missile
+12.                                                         bottom of middle
+                          launching site
+                                                            shaft
+
+                                                            Location at
+13.                       Smoke generator                   bottom of
+                                                            triangle
+
+
+
+Note:      The symbols shown here are used to indicate the type of weapon and its
+position. Unless otherwise stated, the location of the weapon is the base of the
+shaft of the symbol. The quantity of the weapons is shown on the left and the
+caliber or weight of the projectile is shown on the right of the symbols.
+
+
+
+
+                                     17C-2
+                                 RESTRICTED
+
+                                   RESTRICTED
+
+                                                            ANNEX D TO
+                                                            SECTION 17
+
+              TRANSPORT SYMBOLS AND MOBILITY INDICATORS
+
+Serial                          Description              Symbol
+ (a)                               (b)                     (c)
+
+  1.     Vehicles.
+
+         a.          Armoured Personnel Carrier (APC)
+
+
+         b.          General Symbol for armoured
+                     vehicle
+
+         c.          General Symbol for unprotected
+                     vehicle
+
+         d.          MICV/IFV
+
+
+         e.          Tank
+
+
+                              (Light)         (Medium)   (Heavy)
+
+         f.          ARV (tr/wh)
+
+
+
+
+                                     17D-1
+                                   RESTRICTED
+
+                               RESTRICTED
+
+(a)                                (b)       (c)
+2.    Mobility Indicators.
+
+      a.          Tracked or half-tracked
+
+
+      b.          Self Propelled
+
+
+
+      c.          Wheeled
+
+
+      d.          Wheeled cross country
+
+
+      e.          Railway
+
+
+      f.          Towed vehicle or trailer
+
+
+      g.          Animal
+
+
+      h.          Amphibious
+
+
+
+
+      j.          Wagon line
+
+
+
+
+                                   17D-2
+                               RESTRICTED
+
+                                  RESTRICTED
+
+                                                 ANNEX E TO
+                                                 SECTION 17
+
+
+      ELECTRONIC INSTALLATION INDICATORS AND ACTIVITIES
+
+ Serial              Description of Type       Symbol
+  (a)                        (b)                 (c)
+
+(Shown in alphabetical order)
+
+Electronic Installation Role Indicators
+
+
+ 1.       Air Defence Radar
+
+
+ 2.       Artillery Locating
+
+
+ 3.       Electronic Warfare
+
+
+ 4.       Ground Sensor/Ground Surveillance
+          Radar
+
+ 5.       Radio Relay Station
+
+
+ 6.       Radio Station
+
+
+ 7.       Target Designator, eg: Laser, IR
+
+
+
+
+                                      17E-1
+                                  RESTRICTED
+
+                                      RESTRICTED
+
+ (a)                                 (b)           (c)
+
+Electronic Installation Activities
+
+
+ 1.       Direction Finding
+
+
+
+ 2.       Emitting
+
+
+
+ 3.       Intercepting
+
+
+
+ 4.       Jamming
+
+
+
+
+                                           17E-2
+                                      RESTRICTED
+
+                                  RESTRICTED
+
+                                                                ANNEX F TO
+                                                                SECTION 17
+
+                  TERRAIN AND TACTICAL ACTIVITIES
+
+Points
+
+1.      A point of Army interest on a map or diagram is indicated by one of the
+following:
+         a.     General or Unspecified Point:
+
+                 (1)      A Special Indicator may be added
+                          eg:
+
+
+                          (a)     Start Point:
+
+
+
+                          (b)     Release Point:
+
+
+          b.     Control Point:
+
+
+          c.     Junction/Contact/Coordinating Point:
+
+         It is indicated by placing the symbol on the boundary line. For this
+         symbol, the location point is the centre of the symbol.
+
+
+          d.     Vulnerable Point:
+
+
+          e.     T Junction:
+
+
+          f.     Y Junction:
+
+
+                                     17F-1
+                                  RESTRICTED
+
+                                  RESTRICTED
+
+Lines
+
+2.       Boundaries. These are marked by solid lines with the size of the unit
+interposed at convenient intervals. The numerical designations of units should be
+placed on either side of their symbols to indicate which formations are separated
+by the boundary. When a boundary separates units of unequal sizes, the symbols
+for the larger is used. However, unit rear boundaries are given the size of the unit
+and not of the higher unit commanding it. Where the unit concerned does not
+correspond to the size symbol, the size designation must be given:
+
+
+
+
+(Shows 1 Division with 2 Division on its left and 7 Division on its right and 5
+Division to the rear. In the Division area, 44 Brigade is on the left, 101 East
+Bengal (EB) on the right and 10 Armoured Brigade in the rear. The rear
+boundaries of 44 Brigade and 101 EB are also shown.)
+
+3.      Phase Lines or Coordination Lines.
+
+        a.      Lines. The front line is marked by a series of curved lines:
+
+
+
+
+                                      17F-2
+                                  RESTRICTED
+
+                                 RESTRICTED
+
+          (1) The position of the curve does not necessarily mark the location
+          of a combat element.
+
+          (2)   The convex side of the symbol is towards the opposing force.
+
+       b. Other Phase or Coordination Lines. These are marked by line
+       indicators like COMM Z, FSCL, FEBA, FLET, FLOT, SL, MSR, OBJ,
+       PL, RCZ, RL (See Annex A to section 16 for decoding the abbreviations)
+       and supplementary information at appropriate intervals. Examples are:
+
+                                                      A phase line, nickname
+                                                      ‘BLACK         APPLE’
+                                                      which is to be reached
+                                                      at 221030 hrs.
+
+                                                      A      Fire      Support
+                                                      Coordination       Line,
+                                                      following a terrain
+                                                      feature effective during
+                                                      the time period shown.
+Areas and Positions
+
+4.     Reconnaissance Area.
+
+       a. Used to depict the area within which a unit or formation is
+       responsible for reconnaissance.
+       b. The points of the arrows indicate the width of that area but not its
+       forward edge.
+
+
+
+
+     Forward reconnaissance, eg. in           Rearward reconnaissance as in
+     advance operations                       covering troops battle in defence
+
+
+
+                                      17F-3
+                                 RESTRICTED
+
+                                 RESTRICTED
+
+5.     Usage of Area. This indications the use being made of the area, eg
+ASSY (assemble area), CONC, (contaminated area), DUMP, HIDE (hide area),
+LZ, LOG (logistics area), OBJ, SMOKE (obscured by smoke), SHELL (shelled
+or bombed), radioactive and vulnerable areas (shown symbolically) as follows:
+
+
+
+        a.    Assy Area
+
+
+
+
+        b.    Hide Out
+
+
+        c.    Contaminated Areas Other than Radio-Active:
+
+
+                                                 or
+
+                     241500 F AUG
+
+       (Contaminated area other that radio-active shaded in yellow or letter ‘G’
+       written in the centre.)
+
+       d. Radio-active.         Curves of iso-intensity (the same number of
+       radiation per hour) are drawn; the intensity may be written inside the
+       triangular signs of the iso-intensity curve. The times of beginning of fall-
+       out (BF) and end of fall-out (EF) may be shown at different distances
+       from ground zero, eg:
+
+
+
+
+        e.    Vulnerable Area
+
+
+
+                                     17F-4
+                                 RESTRICTED
+
+                                      RESTRICTED
+
+
+
+     f.          Dispersal Area
+
+
+
+     g.          Cantonment
+
+
+
+6.        Positions.
+          a.   Combat Position.       See paragraph 1709.
+          b. Firing Position. This is to be used in conjunction with a Unit or
+          an equipment symbol to be oriented in the direction of firing eg:
+
+               (1) Firing position occupied by
+               own B Squadron; positions follows a
+               line such as a terrain feature:
+
+
+
+               (2) Firing position occupied by
+               two en 82 mm Mortars:
+
+
+
+          c. Strong Point.        A well-fortified position, usually of a defensive
+          nature:
+
+
+               A strong point occupied by B
+               Company:                                                     B
+
+
+          d.   C pen line (eff)
+
+
+          e.   C pen line (not eff)
+
+
+
+                                          17F-5
+                                      RESTRICTED
+
+                                 RESTRICTED
+
+Fire Planning Symbols
+
+7.     Concentration Point:
+
+8.     Linear Concentration:
+
+9.     Nuclear Target (Point):
+
+10.    Arc of Fire.
+       a. Arc.        Broken lines on either side of the weapon with arrow at
+       either end indicate the arc the firing is in the future. A hook may be
+       added at the end of the arc to indicate the maximum range of the weapon
+       in that position. Fixed line is shown by an arrow in front of the weapon.
+       Examples are:
+
+
+
+            (1) Arc of fire from the location
+            point of weapon:
+
+
+
+
+            (2) Arc of fire from the sides of
+            a firing position with the hook
+            showing the maximum effective
+            range for this position (some
+            obstruction limits the range on the
+            right):
+
+
+
+
+            (3) Arc of fire from the sides of
+            an artillery regiment firing
+            position:
+
+
+
+
+                                    17F-6
+                                 RESTRICTED
+
+                                RESTRICTED
+
+Movement
+11.   Air Movement. The basic symbol for a route is used with the symbols to
+show who is using it. Examples are:
+       a.   A one-direction route the army aviation plan to use:
+
+
+
+
+       b.   A two-direction route used by the Air Force:
+
+
+
+
+12.    Patrolling by Tps
+
+
+13.    Tk hunting party
+
+14.    Directions.
+       a.   Route of Advance.    Also see paragraph 1710.
+
+
+
+                                      or
+
+
+
+       b. Axis of Advance. Width of staff may be used to show the
+       approximate or average frontage used; may also be repeated at
+       convenient intervals eg:
+
+
+
+
+                     or
+
+
+
+
+                                    17F-7
+                                RESTRICTED
+
+                         RESTRICTED
+
+c. Route. The arrows show the direction of movement and should be
+repeated as often as necessary for clarity. If movement in both directions
+is allowed, no arrows should be used. Again, any code word or Military
+Load Classification (MLC) may be written beside the route at convenient
+intervals. Examples:
+
+     (1) Route with MLC of
+     60 in one direction only
+
+
+     (2) Route codenamed
+     KING movement in both
+     direction :
+
+     (3) Planned route
+     codenamed QUEEN, MLC
+     30 in one direction only:
+
+
+
+
+d.   Counter attk/Spoiling attk
+
+
+
+
+e.   En Attk Repulsed by own
+
+
+
+
+f.   Own Attk halted by En
+
+
+
+
+g.   Main effort
+
+
+
+                             17F-8
+                         RESTRICTED
+
+                                        RESTRICTED
+
+Fortifications
+
+ 15.    Emplacement. This is
+ drawn above the symbol:
+
+
+ 16.   Foxhole or Weapon Slit.
+ Example of three foxholes for two
+ men:
+
+
+ 17.        Any Trench System:
+
+
+ 18.        Dug-out, Shelter or
+ Pillbox:
+
+ 19.        Strong Point or Fortified
+ Area:
+
+
+ 20.     Strong Point With Size
+ Symbol:
+ (See paragraph 6c)
+
+
+
+ 21.        Multistoried Bldg
+
+
+
+Obstacles
+
+ 22.        Demolished Area:
+
+
+
+
+                                          17F-9
+                                        RESTRICTED
+
+                                  RESTRICTED
+
+23.   Tank Obstacle.
+
+       a.     Wall or bank:
+
+
+
+       b.     Ditch:
+
+
+
+       c.     Type unspecified:
+
+
+24.   Stakes or Rails etc:
+
+25.   Road Block.      Placed on the centre of the road:
+
+       a.     Proposed:
+
+
+       b.     Prepared but passable:
+
+
+       c.     Completed:
+
+
+26.   Wire:
+       a.     Concertina:
+
+       b.     Fence:
+
+
+       c.     Trip:
+
+
+       d.     Type unspecified:
+
+
+27.   Inundation:
+
+
+                                    17F-10
+                                  RESTRICTED
+
+                                RESTRICTED
+
+28.   Mines.
+
+      a.   Anti-tank:
+
+
+      b.   Anti-personal:
+
+
+      c.   Booby trapped:
+
+
+      d.   Type unknown:
+
+
+      e.   Booby trap:
+
+
+
+29.   Minefield.
+
+      a. Belt of 600 mixed anti-tank
+      and anti-personal mines:                     600
+
+
+
+
+      b. Boundaries. These are drawn to scale; the letter M is inserted in the
+      line and the type of mines may be shown, eg:
+                                                                 M
+           (1)     Unfenced mixed minefield:
+                                                        M              M
+
+
+                                                                 M
+
+                                                             X M X
+                                                         X             X
+           (2)     Fenced, but type of mines unknown:
+                                                        M               M
+                                                         X             X
+                                                             X   M X
+                                   17F-11
+                                RESTRICTED
+
+                                  RESTRICTED
+                                                                    M
+
+             (3)   Nuisance minefield:                                      M
+                                                           M
+
+                                                                    M
+
+
+             (4)   Phony minefield:
+
+
+
+30.     Gaps or Lanes in Obstacles.      These are shown by superimposing the
+bridge symbol on the obstacle, eg:
+
+
+                   400
+                                                Gap through a belt of 400 anti-
+                                                tank mines, some of which are
+                                                booby trapped.
+
+
+31.     Demolitions. The symbol            with an indicator superimposed to show
+the state is used to represent demolitions. It is drawn over the precise grid
+reference of the obstacle but where this in not possible, the symbol may be drawn
+away from the location by a vector. The following Demolition Indicators will be
+used to show the status of the obstacle:
+
+        a.   A planned target:
+
+
+
+
+        b.   Prepared demolition STATE 1 (SAFE):
+
+
+
+        c.   Prepared demolition STATE 2 (ARMED):
+
+
+
+        d.   Executed or fired:
+
+                                      17F-12
+                                  RESTRICTED
+
+                                 RESTRICTED
+
+If the state of demolition is not known or needed to be shown, then the symbol
+for State 2 will be used. Again, if there is need to show that the demolition is
+‘Reserved’, the word ‘RES’ if possible with Target Number or Nickname will be
+shown eg:
+
+
+
+                                 A reserved bridge demolition Target Number
+                                 B 32 at State 2 drawn away by location vector.
+
+
+
+
+                                    17F-13
+                                 RESTRICTED
+
+                                 RESTRICTED
+
+                                                           ANNEX G TO
+                                                           SECTION 17
+
+                                 EXAMPLES
+
+Serial     Information/Force Representation       Symbol
+(a)                          (b)                    (c)
+
+
+1.       Own Main HQ 1 Div which will close
+         At 231600F
+
+
+
+
+2.       En 3 AA Bde
+
+
+                                                   XX
+
+3.       ADS (open) provided by 3 Fd Amb      3             1 (ADS)
+         for 1 Div
+
+
+
+
+4.       BLP provided by 4 Fd Wksp Coy
+         for 1 Div
+
+                                                    XX
+5.       TP provided by 1 MP Unit for 1 Div   1     MP      1 (TP)
+
+
+6.       Sec Con No 2
+
+
+
+7.       Reg HQ
+
+
+                                    17G-1
+                                 RESTRICTED
+
+                                RESTRICTED
+
+ (a)                      (b)                    (c)
+
+
+8.      Brigade
+B echs of 3 Inf Bde
+
+
+
+9.     En 1 Arty Bde (Div Arty of 1 Div)
+
+
+
+10.    3 SP Regiment
+
+
+
+
+11.    2 Para Bn
+
+
+
+12.    En 1 Armd Inf Bn
+
+
+
+13.    9 E Bengal Regt (Iorry borne)
+
+
+
+
+14.    1 Div PW Cage
+
+
+
+
+15.    1 Div Rft
+
+
+
+16.    VA defended by P Bty                  1    18 LAA
+of 18 AD Regt
+                                   17G-2
+                                RESTRICTED
+
+                                  RESTRICTED
+
+ (a)                        (b)                (c)
+
+17.    Future loc of En HQ 2 Armd
+       Bde (Step Up) due to open at
+       120200F
+
+
+
+
+18.    1 Mech Inf Bn (wh)
+
+
+
+
+19.    5 H Regt Gp loc being Div Res
+
+
+
+20.    Thought to be an en armd inf bn
+       but all the info is uncfm
+
+
+
+21.    An en inf coy, thought to be A
+       Coy but not cfm
+
+
+22.    En 16 Pl, which is part of an
+       unknown coy, which is part
+       of 10 Bn
+
+
+
+23.    Unit moving west
+
+
+
+
+24.    HQ moving east
+
+
+
+                                       17G-3
+                                  RESTRICTED
+
+                                  RESTRICTED
+
+ (a)                        (b)                                     (c)
+
+25.     En 4H less one sqn of 10 Armd
+        Bde in 20 Div
+
+
+
+26.     An inf coy on wh tpt
+
+
+
+27.     Two hy RRs thought to be 120
+        mm but not cfm
+
+
+28.     En T 72 tks of an unident unit        12?
+        seen at 231600F. Qty 12 is                                ? (T72)
+        uncfm (Multi-colour rep)
+                                                        231600F
+
+  29.   Part of C Coy, 14th Inf Bn under
+        16 Div
+
+
+
+30.     4 x 81 mm med mor belonging
+        to 1 Pl, A Coy, 3 E Bengal. Info
+        valid at 0800F on the 7th of the
+        month
+
+
+31.     An en inf bn OP of 7th Bde, 16 Div
+        loc at Grid Ref 123456. Info as at
+        0730F on the 20th of the month.
+        Which Bn is providing the post is
+        not known
+                                                    3
+32.     Three en hy mors, thought to be 120                120 MM ?
+        mm but not cfm
+
+                                     17G-4
+                                  RESTRICTED
+
+                                 RESTRICTED
+
+ (a)                       (b)                          (c)
+
+
+33.    An en radar jamming instl (Pl size),    ?/?   24 (RADAR)
+       part of the 24th Bn, Coy not known
+
+
+34.    A tr hy gun in Atk role having 120 mm
+       Cal from P Bty, 32 Fd Regt Arty       2/A       43 (120 MM)
+
+
+
+35.    An area to be used as an Assy Area
+
+
+
+
+36.    An area to be used by 2nd Para Bn      DZ
+       as a DZ                                                  2
+
+
+
+
+                                                              1EB
+37.    A strong pt occupied by 1 E Bengal
+
+
+38.    An area occupied by Q Bty 32 Fd
+       Regt equipped with 122 mm how
+
+
+
+39.    3 Fd Coy of 1 Engr Bn to go UC
+       HQ 10 Armd Bde from 310700F
+
+
+
+
+40.    Exact loc of 2 Inf Bn (mech) BG
+       HQ, the Div Res at oner hr NTM
+
+
+                                    17G-5
+                                 RESTRICTED
+
+                                 RESTRICTED
+
+ (a)                       (b)                          (c)
+
+
+41.    A firing posn occupied by A Sqn
+       Gp 5 Cav from 221000F
+
+
+
+
+42.    En 1 Div ST Bn in conc area
+
+
+
+
+43.    Future loc of 3 Fd Amb from
+                                                              3
+
+                                         FROM 221530F
+
+44.     15 Div Sp Bn reinforced by 2 MP unit
+and acting as reg HQ
+
+
+
+
+45.    An en ECP belonging of 41 Fd Wksp Coy
+       opened for 41 Div
+
+
+
+
+46.    An AP open from 032200F tp 040500F
+
+
+
+
+47.    En Para dropping in an area taken place at
+       021900F
+
+
+
+                                     17G-6
+                                 RESTRICTED
+
+                                 RESTRICTED
+
+ (a)                       (b)                (c)
+
+48.    Ammo dump eff from 031000F
+       manned by A Coy 5 E Bengal
+
+
+
+49.    En armd recce in pl str at 031330F
+       thought to be recce towards br
+
+
+
+50.    Maj and subsidiary axes of 26
+       Armd Div with suspected bdrys
+       (en) (Multi-colour rep)
+
+
+
+
+51.    12 EB in def, A coy def posn of
+       the bn is a strong pt def
+
+
+
+
+52.    FB composed of B Sqn of 6 Cav,
+       Comp pl of 15 Div Sp Bn, an
+       ATGM sec of 15 Div Sp Bn,
+       6 x RRs of 2 EB, 6 x MGs
+       of 2 EB and Bn Mor of 2 EB
+       (please refer to para 1709c)
+
+
+
+
+53.    Weapon Locating Radar (WLR)
+
+
+
+                                   17G-7
+                                 RESTRICTED
+
+                                RESTRICTED
+
+
+ (a)                      (b)                                 (c)
+
+54.     Sound Ranging Base
+
+
+
+55.     UAV
+
+
+56.     Air Op
+
+
+
+
+Note:
+
+1.     Abbreviations have been used in this annex to save space and also to
+conform to the symbols which are also abbreviated.
+
+
+
+
+                                  17G-8
+                                RESTRICTED
+
+                                   RESTRICTED
+
+                                                                    ANNEX H TO
+                                                                    SECTION 17
+
+  STANDARD LAYOUT TO MARK THE MAP, OVERLAY AND SKETCH
+
+                        SECURITY CLASSIFICATION (1)
+                              EXERCISE NAME (2)              Copy No __ of __(6)
+                              TYPE OF MAP (3)                ANNEX A (7)
+                              SUBJECT HEADING (4)
+                                                              Correct at (DTG) (5)
+
+
+
+
+Ref: (9)
+A.         BD sheets 78P/4 and P/5 or P/4 and 5; 1:50,000
+Time Z Used Throughout the                        .         FOXTROT. (10)
+
+
+                                                                           (11) N
+
+
+
+
+                                                      SCALE: (13)
+
+
+
+
+ Corresponding
+ colour to be used
+                                       17H-1
+                                   RESTRICTED
+
+                                  RESTRICTED
+
+Note: Information required as applicable to marking a map, overlay and sketch
+are shown below by numerical:
+
+For Map:       1, 2, 3, 5, 10, 11, 12, 14, 15
+For Overlay:   1, 2, 4, 6, 7, 8, 9, 10, 11, 15
+For Sketch:    1, 2, 4, 6, 7, 10, 11, 13, 15
+
+
+
+
+                                       17H-2
+                                  RESTRICTED
+
+                                   RESTRICTED
